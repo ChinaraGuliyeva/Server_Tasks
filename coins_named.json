@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 0,
+    "name": "untidily",
+    "year": 371,
+    "price": "4035.945",
+    "rarity": "rare"
+  },
+  {
+    "id": 1,
+    "name": "guy",
+    "year": 1587,
+    "price": "2923.357",
+    "rarity": "very common"
+  },
+  {
+    "id": 2,
+    "name": "endlessnesses",
+    "year": 71,
+    "price": "1965.980",
+    "rarity": "rare"
+  },
+  {
+    "id": 3,
+    "name": "flabbergasted",
+    "year": 1641,
+    "price": "9818.028",
+    "rarity": "common"
+  },
+  {
+    "id": 4,
+    "name": "clipper",
+    "year": 375,
+    "price": "9239.341",
+    "rarity": "common"
+  },
+  {
+    "id": 5,
+    "name": "legating",
+    "year": 1809,
+    "price": "1953.631",
+    "rarity": "common"
+  },
+  {
+    "id": 6,
+    "name": "sonneteer",
+    "year": 190,
+    "price": "6980.691",
+    "rarity": "very common"
+  },
+  {
+    "id": 7,
+    "name": "quadriplegic",
+    "year": 1765,
+    "price": "6693.774",
+    "rarity": "rare"
+  },
+  {
+    "id": 8,
+    "name": "stretched",
+    "year": 453,
+    "price": "9265.796",
+    "rarity": "very common"
+  },
+  {
+    "id": 9,
+    "name": "trembly",
+    "year": 1592,
+    "price": "2399.963",
+    "rarity": "rare"
+  },
+  {
+    "id": 10,
+    "name": "carbonizes",
+    "year": 267,
+    "price": "7292.762",
+    "rarity": "very common"
+  },
+  {
+    "id": 11,
+    "name": "counterblasts",
+    "year": 1674,
+    "price": "2107.750",
+    "rarity": "rare"
+  },
+  {
+    "id": 12,
+    "name": "unlikelinesses",
+    "year": 1322,
+    "price": "6522.032",
+    "rarity": "very rare"
+  },
+  {
+    "id": 13,
+    "name": "mabes",
+    "year": 1187,
+    "price": "261.305",
+    "rarity": "rare"
+  },
+  {
+    "id": 14,
+    "name": "pikestaves",
+    "year": 1277,
+    "price": "8439.728",
+    "rarity": "very rare"
+  },
+  {
+    "id": 15,
+    "name": "geosciences",
+    "year": 123,
+    "price": "215.243",
+    "rarity": "very rare"
+  },
+  {
+    "id": 16,
+    "name": "viragoes",
+    "year": 1802,
+    "price": "5328.786",
+    "rarity": "common"
+  },
+  {
+    "id": 17,
+    "name": "roves",
+    "year": 1226,
+    "price": "5746.767",
+    "rarity": "very rare"
+  },
+  {
+    "id": 18,
+    "name": "movableness",
+    "year": 342,
+    "price": "1681.560",
+    "rarity": "very common"
+  },
+  {
+    "id": 19,
+    "name": "blessedest",
+    "year": 131,
+    "price": "2368.849",
+    "rarity": "very rare"
+  },
+  {
+    "id": 20,
+    "name": "tricep",
+    "year": 753,
+    "price": "8211.734",
+    "rarity": "rare"
+  },
+  {
+    "id": 21,
+    "name": "concentrative",
+    "year": 1514,
+    "price": "1278.125",
+    "rarity": "very common"
+  },
+  {
+    "id": 22,
+    "name": "communist",
+    "year": 465,
+    "price": "7923.321",
+    "rarity": "rare"
+  },
+  {
+    "id": 23,
+    "name": "hepatectomized",
+    "year": 334,
+    "price": "9364.122",
+    "rarity": "very rare"
+  },
+  {
+    "id": 24,
+    "name": "victualing",
+    "year": 1693,
+    "price": "2175.262",
+    "rarity": "common"
+  },
+  {
+    "id": 25,
+    "name": "masterpieces",
+    "year": 376,
+    "price": "9267.896",
+    "rarity": "common"
+  },
+  {
+    "id": 26,
+    "name": "transuranium",
+    "year": 18,
+    "price": "7203.977",
+    "rarity": "very common"
+  },
+  {
+    "id": 27,
+    "name": "enterobacterium",
+    "year": 1668,
+    "price": "1070.234",
+    "rarity": "very common"
+  },
+  {
+    "id": 28,
+    "name": "oaken",
+    "year": 1507,
+    "price": "2445.693",
+    "rarity": "very rare"
+  },
+  {
+    "id": 29,
+    "name": "physicians",
+    "year": 332,
+    "price": "6804.367",
+    "rarity": "rare"
+  },
+  {
+    "id": 30,
+    "name": "carter",
+    "year": 1585,
+    "price": "1821.731",
+    "rarity": "very common"
+  },
+  {
+    "id": 31,
+    "name": "inflicting",
+    "year": 243,
+    "price": "8791.848",
+    "rarity": "rare"
+  },
+  {
+    "id": 32,
+    "name": "plumular",
+    "year": 1602,
+    "price": "6716.666",
+    "rarity": "rare"
+  },
+  {
+    "id": 33,
+    "name": "finalizes",
+    "year": 1591,
+    "price": "7316.755",
+    "rarity": "very rare"
+  },
+  {
+    "id": 34,
+    "name": "grinder",
+    "year": 168,
+    "price": "9848.345",
+    "rarity": "rare"
+  },
+  {
+    "id": 35,
+    "name": "acerate",
+    "year": 780,
+    "price": "2545.882",
+    "rarity": "common"
+  },
+  {
+    "id": 36,
+    "name": "allosteries",
+    "year": 877,
+    "price": "5456.199",
+    "rarity": "rare"
+  },
+  {
+    "id": 37,
+    "name": "anodized",
+    "year": 1386,
+    "price": "3924.982",
+    "rarity": "very common"
+  },
+  {
+    "id": 38,
+    "name": "relic",
+    "year": 1248,
+    "price": "2492.490",
+    "rarity": "very rare"
+  },
+  {
+    "id": 39,
+    "name": "trattorias",
+    "year": 1927,
+    "price": "310.038",
+    "rarity": "very common"
+  },
+  {
+    "id": 40,
+    "name": "uncommonly",
+    "year": 1113,
+    "price": "886.602",
+    "rarity": "very common"
+  },
+  {
+    "id": 41,
+    "name": "revegetate",
+    "year": 825,
+    "price": "3913.718",
+    "rarity": "common"
+  },
+  {
+    "id": 42,
+    "name": "woodworks",
+    "year": 1045,
+    "price": "9514.940",
+    "rarity": "very rare"
+  },
+  {
+    "id": 43,
+    "name": "requirement",
+    "year": 1524,
+    "price": "6205.996",
+    "rarity": "very rare"
+  },
+  {
+    "id": 44,
+    "name": "natantly",
+    "year": 991,
+    "price": "499.423",
+    "rarity": "rare"
+  },
+  {
+    "id": 45,
+    "name": "swatters",
+    "year": 1729,
+    "price": "5388.405",
+    "rarity": "rare"
+  },
+  {
+    "id": 46,
+    "name": "perfumer",
+    "year": 306,
+    "price": "1107.854",
+    "rarity": "very common"
+  },
+  {
+    "id": 47,
+    "name": "batiked",
+    "year": 617,
+    "price": "8355.818",
+    "rarity": "rare"
+  },
+  {
+    "id": 48,
+    "name": "exactingnesses",
+    "year": 1548,
+    "price": "680.378",
+    "rarity": "rare"
+  },
+  {
+    "id": 49,
+    "name": "prickles",
+    "year": 1992,
+    "price": "1953.805",
+    "rarity": "common"
+  },
+  {
+    "id": 50,
+    "name": "nonmeetings",
+    "year": 282,
+    "price": "6683.700",
+    "rarity": "common"
+  },
+  {
+    "id": 51,
+    "name": "minter",
+    "year": 200,
+    "price": "6435.930",
+    "rarity": "very common"
+  },
+  {
+    "id": 52,
+    "name": "pouffed",
+    "year": 756,
+    "price": "8488.201",
+    "rarity": "common"
+  },
+  {
+    "id": 53,
+    "name": "colonists",
+    "year": 1455,
+    "price": "3870.539",
+    "rarity": "very rare"
+  },
+  {
+    "id": 54,
+    "name": "latitudinarian",
+    "year": 887,
+    "price": "5567.294",
+    "rarity": "common"
+  },
+  {
+    "id": 55,
+    "name": "organisms",
+    "year": 932,
+    "price": "6177.682",
+    "rarity": "very rare"
+  },
+  {
+    "id": 56,
+    "name": "facetiously",
+    "year": 254,
+    "price": "7378.987",
+    "rarity": "very rare"
+  },
+  {
+    "id": 57,
+    "name": "carrottopped",
+    "year": 1100,
+    "price": "9406.966",
+    "rarity": "very common"
+  },
+  {
+    "id": 58,
+    "name": "misconception",
+    "year": 1947,
+    "price": "999.262",
+    "rarity": "very rare"
+  },
+  {
+    "id": 59,
+    "name": "slinkier",
+    "year": 1759,
+    "price": "22.113",
+    "rarity": "very rare"
+  },
+  {
+    "id": 60,
+    "name": "implement",
+    "year": 327,
+    "price": "5048.568",
+    "rarity": "very common"
+  },
+  {
+    "id": 61,
+    "name": "hexarchy",
+    "year": 294,
+    "price": "6934.935",
+    "rarity": "rare"
+  },
+  {
+    "id": 62,
+    "name": "humanlike",
+    "year": 1438,
+    "price": "4899.696",
+    "rarity": "very common"
+  },
+  {
+    "id": 63,
+    "name": "refortify",
+    "year": 1137,
+    "price": "2279.668",
+    "rarity": "rare"
+  },
+  {
+    "id": 64,
+    "name": "antiperspirants",
+    "year": 1290,
+    "price": "2830.549",
+    "rarity": "very rare"
+  },
+  {
+    "id": 65,
+    "name": "pessimistically",
+    "year": 579,
+    "price": "6353.613",
+    "rarity": "common"
+  },
+  {
+    "id": 66,
+    "name": "hydrobiologist",
+    "year": 1493,
+    "price": "6431.767",
+    "rarity": "common"
+  },
+  {
+    "id": 67,
+    "name": "outlines",
+    "year": 725,
+    "price": "2576.551",
+    "rarity": "very common"
+  },
+  {
+    "id": 68,
+    "name": "studiousness",
+    "year": 450,
+    "price": "1294.934",
+    "rarity": "rare"
+  },
+  {
+    "id": 69,
+    "name": "transposable",
+    "year": 1936,
+    "price": "4605.087",
+    "rarity": "common"
+  },
+  {
+    "id": 70,
+    "name": "headfish",
+    "year": 1604,
+    "price": "7116.733",
+    "rarity": "common"
+  },
+  {
+    "id": 71,
+    "name": "beleap",
+    "year": 1492,
+    "price": "5837.771",
+    "rarity": "rare"
+  },
+  {
+    "id": 72,
+    "name": "banderole",
+    "year": 1608,
+    "price": "118.986",
+    "rarity": "rare"
+  },
+  {
+    "id": 73,
+    "name": "nominated",
+    "year": 1209,
+    "price": "9617.149",
+    "rarity": "very common"
+  },
+  {
+    "id": 74,
+    "name": "utopianism",
+    "year": 921,
+    "price": "8180.836",
+    "rarity": "rare"
+  },
+  {
+    "id": 75,
+    "name": "monographs",
+    "year": 534,
+    "price": "5101.742",
+    "rarity": "very common"
+  },
+  {
+    "id": 76,
+    "name": "overs",
+    "year": 1850,
+    "price": "3938.749",
+    "rarity": "rare"
+  },
+  {
+    "id": 77,
+    "name": "nance",
+    "year": 1265,
+    "price": "3474.844",
+    "rarity": "very common"
+  },
+  {
+    "id": 78,
+    "name": "multicolor",
+    "year": 1211,
+    "price": "5080.682",
+    "rarity": "rare"
+  },
+  {
+    "id": 79,
+    "name": "righty",
+    "year": 1602,
+    "price": "7083.856",
+    "rarity": "common"
+  },
+  {
+    "id": 80,
+    "name": "thermoforming",
+    "year": 1373,
+    "price": "4863.865",
+    "rarity": "rare"
+  },
+  {
+    "id": 81,
+    "name": "ideologists",
+    "year": 1625,
+    "price": "6100.856",
+    "rarity": "common"
+  },
+  {
+    "id": 82,
+    "name": "stretch",
+    "year": 177,
+    "price": "5551.058",
+    "rarity": "very common"
+  },
+  {
+    "id": 83,
+    "name": "battu",
+    "year": 1090,
+    "price": "3797.599",
+    "rarity": "rare"
+  },
+  {
+    "id": 84,
+    "name": "sophistic",
+    "year": 1819,
+    "price": "4564.390",
+    "rarity": "very rare"
+  },
+  {
+    "id": 85,
+    "name": "rehydrated",
+    "year": 1642,
+    "price": "2641.013",
+    "rarity": "very common"
+  },
+  {
+    "id": 86,
+    "name": "tetradic",
+    "year": 1464,
+    "price": "7818.858",
+    "rarity": "very rare"
+  },
+  {
+    "id": 87,
+    "name": "sailor",
+    "year": 1699,
+    "price": "6923.250",
+    "rarity": "very rare"
+  },
+  {
+    "id": 88,
+    "name": "wendigo",
+    "year": 1481,
+    "price": "4190.087",
+    "rarity": "rare"
+  },
+  {
+    "id": 89,
+    "name": "tandoor",
+    "year": 1485,
+    "price": "6364.751",
+    "rarity": "very common"
+  },
+  {
+    "id": 90,
+    "name": "ankh",
+    "year": 968,
+    "price": "4899.348",
+    "rarity": "very rare"
+  },
+  {
+    "id": 91,
+    "name": "outtrade",
+    "year": 488,
+    "price": "8652.528",
+    "rarity": "very common"
+  },
+  {
+    "id": 92,
+    "name": "fustigation",
+    "year": 1826,
+    "price": "9406.051",
+    "rarity": "very rare"
+  },
+  {
+    "id": 93,
+    "name": "unaborted",
+    "year": 1188,
+    "price": "2620.442",
+    "rarity": "common"
+  },
+  {
+    "id": 94,
+    "name": "reformative",
+    "year": 1961,
+    "price": "6682.324",
+    "rarity": "very common"
+  },
+  {
+    "id": 95,
+    "name": "eloins",
+    "year": 1744,
+    "price": "4656.468",
+    "rarity": "common"
+  },
+  {
+    "id": 96,
+    "name": "reconvert",
+    "year": 1247,
+    "price": "795.119",
+    "rarity": "very common"
+  },
+  {
+    "id": 97,
+    "name": "stateroom",
+    "year": 1555,
+    "price": "217.228",
+    "rarity": "rare"
+  },
+  {
+    "id": 98,
+    "name": "dares",
+    "year": 819,
+    "price": "9727.331",
+    "rarity": "rare"
+  },
+  {
+    "id": 99,
+    "name": "sulfinyl",
+    "year": 1873,
+    "price": "5446.453",
+    "rarity": "very rare"
+  },
+  {
+    "id": 100,
+    "name": "caroling",
+    "year": 876,
+    "price": "9631.521",
+    "rarity": "very common"
+  },
+  {
+    "id": 101,
+    "name": "gallinipper",
+    "year": 1659,
+    "price": "4107.222",
+    "rarity": "common"
+  },
+  {
+    "id": 102,
+    "name": "farthermost",
+    "year": 1110,
+    "price": "5738.949",
+    "rarity": "rare"
+  },
+  {
+    "id": 103,
+    "name": "transport",
+    "year": 1906,
+    "price": "4315.391",
+    "rarity": "very rare"
+  },
+  {
+    "id": 104,
+    "name": "plyometrics",
+    "year": 541,
+    "price": "6452.582",
+    "rarity": "very common"
+  },
+  {
+    "id": 105,
+    "name": "outwind",
+    "year": 1626,
+    "price": "432.182",
+    "rarity": "very rare"
+  },
+  {
+    "id": 106,
+    "name": "californium",
+    "year": 1571,
+    "price": "2993.040",
+    "rarity": "very rare"
+  },
+  {
+    "id": 107,
+    "name": "fossiliferous",
+    "year": 1930,
+    "price": "6764.064",
+    "rarity": "very rare"
+  },
+  {
+    "id": 108,
+    "name": "spinney",
+    "year": 1728,
+    "price": "6098.500",
+    "rarity": "very common"
+  },
+  {
+    "id": 109,
+    "name": "southbound",
+    "year": 362,
+    "price": "9436.661",
+    "rarity": "very rare"
+  },
+  {
+    "id": 110,
+    "name": "poeticalness",
+    "year": 554,
+    "price": "2646.240",
+    "rarity": "very rare"
+  },
+  {
+    "id": 111,
+    "name": "viols",
+    "year": 718,
+    "price": "2368.693",
+    "rarity": "rare"
+  },
+  {
+    "id": 112,
+    "name": "behalf",
+    "year": 1201,
+    "price": "9592.880",
+    "rarity": "very rare"
+  },
+  {
+    "id": 113,
+    "name": "gastrin",
+    "year": 126,
+    "price": "3176.767",
+    "rarity": "rare"
+  },
+  {
+    "id": 114,
+    "name": "housedress",
+    "year": 754,
+    "price": "8255.909",
+    "rarity": "very common"
+  },
+  {
+    "id": 115,
+    "name": "radiometries",
+    "year": 122,
+    "price": "240.149",
+    "rarity": "rare"
+  },
+  {
+    "id": 116,
+    "name": "subdwarf",
+    "year": 498,
+    "price": "3620.472",
+    "rarity": "rare"
+  },
+  {
+    "id": 117,
+    "name": "dumpings",
+    "year": 109,
+    "price": "4076.355",
+    "rarity": "very common"
+  },
+  {
+    "id": 118,
+    "name": "droops",
+    "year": 1633,
+    "price": "4487.695",
+    "rarity": "very rare"
+  },
+  {
+    "id": 119,
+    "name": "dartboard",
+    "year": 674,
+    "price": "663.082",
+    "rarity": "very common"
+  },
+  {
+    "id": 120,
+    "name": "catabolized",
+    "year": 1263,
+    "price": "8075.876",
+    "rarity": "rare"
+  },
+  {
+    "id": 121,
+    "name": "reiteratively",
+    "year": 55,
+    "price": "1270.893",
+    "rarity": "rare"
+  },
+  {
+    "id": 122,
+    "name": "twinkie",
+    "year": 1859,
+    "price": "334.702",
+    "rarity": "very rare"
+  },
+  {
+    "id": 123,
+    "name": "fares",
+    "year": 1142,
+    "price": "9020.871",
+    "rarity": "very common"
+  },
+  {
+    "id": 124,
+    "name": "skydive",
+    "year": 1624,
+    "price": "2328.661",
+    "rarity": "very rare"
+  },
+  {
+    "id": 125,
+    "name": "sautoirs",
+    "year": 808,
+    "price": "1715.152",
+    "rarity": "very common"
+  },
+  {
+    "id": 126,
+    "name": "peppermints",
+    "year": 202,
+    "price": "5662.055",
+    "rarity": "very rare"
+  },
+  {
+    "id": 127,
+    "name": "clickable",
+    "year": 685,
+    "price": "9773.635",
+    "rarity": "common"
+  },
+  {
+    "id": 128,
+    "name": "reacclimatizing",
+    "year": 1095,
+    "price": "2650.278",
+    "rarity": "common"
+  },
+  {
+    "id": 129,
+    "name": "skibobs",
+    "year": 1223,
+    "price": "8559.633",
+    "rarity": "rare"
+  },
+  {
+    "id": 130,
+    "name": "asterisking",
+    "year": 557,
+    "price": "3223.859",
+    "rarity": "rare"
+  },
+  {
+    "id": 131,
+    "name": "misassay",
+    "year": 1059,
+    "price": "8655.273",
+    "rarity": "very rare"
+  },
+  {
+    "id": 132,
+    "name": "shorteners",
+    "year": 86,
+    "price": "2933.248",
+    "rarity": "rare"
+  },
+  {
+    "id": 133,
+    "name": "ligaturing",
+    "year": 861,
+    "price": "2250.180",
+    "rarity": "very rare"
+  },
+  {
+    "id": 134,
+    "name": "comanages",
+    "year": 48,
+    "price": "9580.430",
+    "rarity": "very rare"
+  },
+  {
+    "id": 135,
+    "name": "oneself",
+    "year": 59,
+    "price": "4852.001",
+    "rarity": "very rare"
+  },
+  {
+    "id": 136,
+    "name": "carking",
+    "year": 1987,
+    "price": "3871.162",
+    "rarity": "common"
+  },
+  {
+    "id": 137,
+    "name": "fellator",
+    "year": 773,
+    "price": "8482.892",
+    "rarity": "very rare"
+  },
+  {
+    "id": 138,
+    "name": "inhibiting",
+    "year": 1145,
+    "price": "7422.513",
+    "rarity": "common"
+  },
+  {
+    "id": 139,
+    "name": "enraging",
+    "year": 802,
+    "price": "8597.252",
+    "rarity": "common"
+  },
+  {
+    "id": 140,
+    "name": "campylobacter",
+    "year": 852,
+    "price": "8344.188",
+    "rarity": "very rare"
+  },
+  {
+    "id": 141,
+    "name": "arias",
+    "year": 436,
+    "price": "9938.467",
+    "rarity": "rare"
+  },
+  {
+    "id": 142,
+    "name": "ytterbium",
+    "year": 1800,
+    "price": "4735.846",
+    "rarity": "rare"
+  },
+  {
+    "id": 143,
+    "name": "creasier",
+    "year": 608,
+    "price": "9910.810",
+    "rarity": "very rare"
+  },
+  {
+    "id": 144,
+    "name": "meristem",
+    "year": 463,
+    "price": "329.070",
+    "rarity": "very rare"
+  },
+  {
+    "id": 145,
+    "name": "transitoriness",
+    "year": 1398,
+    "price": "3169.466",
+    "rarity": "very rare"
+  },
+  {
+    "id": 146,
+    "name": "inadvertences",
+    "year": 510,
+    "price": "435.968",
+    "rarity": "common"
+  },
+  {
+    "id": 147,
+    "name": "fudge",
+    "year": 37,
+    "price": "257.338",
+    "rarity": "very rare"
+  },
+  {
+    "id": 148,
+    "name": "anthropophagies",
+    "year": 1163,
+    "price": "263.799",
+    "rarity": "very common"
+  },
+  {
+    "id": 149,
+    "name": "fiberization",
+    "year": 389,
+    "price": "329.361",
+    "rarity": "very common"
+  },
+  {
+    "id": 150,
+    "name": "attrites",
+    "year": 1564,
+    "price": "6967.346",
+    "rarity": "very common"
+  },
+  {
+    "id": 151,
+    "name": "mercy",
+    "year": 1242,
+    "price": "2980.030",
+    "rarity": "rare"
+  },
+  {
+    "id": 152,
+    "name": "sensitising",
+    "year": 217,
+    "price": "2122.187",
+    "rarity": "very common"
+  },
+  {
+    "id": 153,
+    "name": "hyaenas",
+    "year": 155,
+    "price": "20.194",
+    "rarity": "common"
+  },
+  {
+    "id": 154,
+    "name": "muslins",
+    "year": 288,
+    "price": "2982.275",
+    "rarity": "rare"
+  },
+  {
+    "id": 155,
+    "name": "whews",
+    "year": 1120,
+    "price": "5410.740",
+    "rarity": "common"
+  },
+  {
+    "id": 156,
+    "name": "denote",
+    "year": 506,
+    "price": "7472.862",
+    "rarity": "very rare"
+  },
+  {
+    "id": 157,
+    "name": "unmasks",
+    "year": 1270,
+    "price": "9960.596",
+    "rarity": "rare"
+  },
+  {
+    "id": 158,
+    "name": "gharries",
+    "year": 1111,
+    "price": "8246.085",
+    "rarity": "very rare"
+  },
+  {
+    "id": 159,
+    "name": "bearcats",
+    "year": 1812,
+    "price": "9688.144",
+    "rarity": "very common"
+  },
+  {
+    "id": 160,
+    "name": "cotransported",
+    "year": 1898,
+    "price": "4369.086",
+    "rarity": "very common"
+  },
+  {
+    "id": 161,
+    "name": "alcoves",
+    "year": 514,
+    "price": "2438.149",
+    "rarity": "rare"
+  },
+  {
+    "id": 162,
+    "name": "enforce",
+    "year": 60,
+    "price": "1815.386",
+    "rarity": "common"
+  },
+  {
+    "id": 163,
+    "name": "scornfulness",
+    "year": 248,
+    "price": "711.746",
+    "rarity": "very common"
+  },
+  {
+    "id": 164,
+    "name": "typp",
+    "year": 1129,
+    "price": "3472.423",
+    "rarity": "very rare"
+  },
+  {
+    "id": 165,
+    "name": "yeahs",
+    "year": 537,
+    "price": "9856.010",
+    "rarity": "very rare"
+  },
+  {
+    "id": 166,
+    "name": "completed",
+    "year": 173,
+    "price": "9857.308",
+    "rarity": "rare"
+  },
+  {
+    "id": 167,
+    "name": "protesters",
+    "year": 1086,
+    "price": "9125.326",
+    "rarity": "rare"
+  },
+  {
+    "id": 168,
+    "name": "carillonneurs",
+    "year": 1165,
+    "price": "5133.437",
+    "rarity": "common"
+  },
+  {
+    "id": 169,
+    "name": "pollutants",
+    "year": 163,
+    "price": "2194.342",
+    "rarity": "common"
+  },
+  {
+    "id": 170,
+    "name": "interchanges",
+    "year": 1553,
+    "price": "6497.263",
+    "rarity": "very common"
+  },
+  {
+    "id": 171,
+    "name": "shaver",
+    "year": 878,
+    "price": "2448.517",
+    "rarity": "rare"
+  },
+  {
+    "id": 172,
+    "name": "spellbinding",
+    "year": 1896,
+    "price": "6857.803",
+    "rarity": "very common"
+  },
+  {
+    "id": 173,
+    "name": "quintillionths",
+    "year": 1144,
+    "price": "2731.344",
+    "rarity": "very rare"
+  },
+  {
+    "id": 174,
+    "name": "phyllodium",
+    "year": 266,
+    "price": "2645.628",
+    "rarity": "very rare"
+  },
+  {
+    "id": 175,
+    "name": "gayest",
+    "year": 1145,
+    "price": "2649.331",
+    "rarity": "common"
+  },
+  {
+    "id": 176,
+    "name": "layoffs",
+    "year": 299,
+    "price": "583.202",
+    "rarity": "very common"
+  },
+  {
+    "id": 177,
+    "name": "rijsttafels",
+    "year": 85,
+    "price": "8639.753",
+    "rarity": "very rare"
+  },
+  {
+    "id": 178,
+    "name": "hysterectomized",
+    "year": 45,
+    "price": "8590.485",
+    "rarity": "very rare"
+  },
+  {
+    "id": 179,
+    "name": "economised",
+    "year": 1251,
+    "price": "5538.228",
+    "rarity": "very rare"
+  },
+  {
+    "id": 180,
+    "name": "wineskin",
+    "year": 497,
+    "price": "213.480",
+    "rarity": "very rare"
+  },
+  {
+    "id": 181,
+    "name": "papillate",
+    "year": 923,
+    "price": "1509.031",
+    "rarity": "very common"
+  },
+  {
+    "id": 182,
+    "name": "sentimentalize",
+    "year": 266,
+    "price": "2987.319",
+    "rarity": "very common"
+  },
+  {
+    "id": 183,
+    "name": "carburetter",
+    "year": 978,
+    "price": "2500.324",
+    "rarity": "very common"
+  },
+  {
+    "id": 184,
+    "name": "veteran",
+    "year": 8,
+    "price": "6433.714",
+    "rarity": "very rare"
+  },
+  {
+    "id": 185,
+    "name": "sacrilegiously",
+    "year": 981,
+    "price": "7381.857",
+    "rarity": "very rare"
+  },
+  {
+    "id": 186,
+    "name": "frosting",
+    "year": 431,
+    "price": "9289.819",
+    "rarity": "rare"
+  },
+  {
+    "id": 187,
+    "name": "beadsman",
+    "year": 271,
+    "price": "7316.383",
+    "rarity": "very rare"
+  },
+  {
+    "id": 188,
+    "name": "enkindlers",
+    "year": 1516,
+    "price": "5527.466",
+    "rarity": "common"
+  },
+  {
+    "id": 189,
+    "name": "disciplinary",
+    "year": 849,
+    "price": "8313.011",
+    "rarity": "very common"
+  },
+  {
+    "id": 190,
+    "name": "prawning",
+    "year": 514,
+    "price": "2429.300",
+    "rarity": "common"
+  },
+  {
+    "id": 191,
+    "name": "spiffy",
+    "year": 1260,
+    "price": "1912.525",
+    "rarity": "very rare"
+  },
+  {
+    "id": 192,
+    "name": "maltreatment",
+    "year": 1035,
+    "price": "2991.704",
+    "rarity": "common"
+  },
+  {
+    "id": 193,
+    "name": "jargoning",
+    "year": 1048,
+    "price": "4446.498",
+    "rarity": "common"
+  },
+  {
+    "id": 194,
+    "name": "lacquers",
+    "year": 1794,
+    "price": "891.433",
+    "rarity": "very rare"
+  },
+  {
+    "id": 195,
+    "name": "downturns",
+    "year": 1347,
+    "price": "4105.564",
+    "rarity": "rare"
+  },
+  {
+    "id": 196,
+    "name": "stalely",
+    "year": 637,
+    "price": "9252.583",
+    "rarity": "very rare"
+  },
+  {
+    "id": 197,
+    "name": "sissinesses",
+    "year": 1659,
+    "price": "2050.838",
+    "rarity": "rare"
+  },
+  {
+    "id": 198,
+    "name": "mignonette",
+    "year": 148,
+    "price": "9722.890",
+    "rarity": "very common"
+  },
+  {
+    "id": 199,
+    "name": "aglee",
+    "year": 338,
+    "price": "2136.593",
+    "rarity": "common"
+  },
+  {
+    "id": 200,
+    "name": "unfamiliarities",
+    "year": 388,
+    "price": "2017.279",
+    "rarity": "common"
+  },
+  {
+    "id": 201,
+    "name": "gig",
+    "year": 1934,
+    "price": "7480.304",
+    "rarity": "very rare"
+  },
+  {
+    "id": 202,
+    "name": "spookery",
+    "year": 1760,
+    "price": "7669.460",
+    "rarity": "very common"
+  },
+  {
+    "id": 203,
+    "name": "riels",
+    "year": 871,
+    "price": "3149.990",
+    "rarity": "common"
+  },
+  {
+    "id": 204,
+    "name": "tibiofibulae",
+    "year": 1378,
+    "price": "3243.153",
+    "rarity": "very rare"
+  },
+  {
+    "id": 205,
+    "name": "ravener",
+    "year": 1109,
+    "price": "6832.093",
+    "rarity": "very rare"
+  },
+  {
+    "id": 206,
+    "name": "refalling",
+    "year": 865,
+    "price": "4740.620",
+    "rarity": "very common"
+  },
+  {
+    "id": 207,
+    "name": "uselessly",
+    "year": 750,
+    "price": "6845.523",
+    "rarity": "common"
+  },
+  {
+    "id": 208,
+    "name": "lexicalizes",
+    "year": 17,
+    "price": "1934.644",
+    "rarity": "very rare"
+  },
+  {
+    "id": 209,
+    "name": "austere",
+    "year": 1976,
+    "price": "8211.265",
+    "rarity": "very rare"
+  },
+  {
+    "id": 210,
+    "name": "crumbier",
+    "year": 409,
+    "price": "4303.413",
+    "rarity": "very common"
+  },
+  {
+    "id": 211,
+    "name": "writher",
+    "year": 592,
+    "price": "9391.294",
+    "rarity": "common"
+  },
+  {
+    "id": 212,
+    "name": "strangle",
+    "year": 1827,
+    "price": "1690.028",
+    "rarity": "common"
+  },
+  {
+    "id": 213,
+    "name": "divulgence",
+    "year": 1666,
+    "price": "3631.961",
+    "rarity": "very rare"
+  },
+  {
+    "id": 214,
+    "name": "smokestacks",
+    "year": 1570,
+    "price": "5277.657",
+    "rarity": "common"
+  },
+  {
+    "id": 215,
+    "name": "discernment",
+    "year": 362,
+    "price": "4610.152",
+    "rarity": "very rare"
+  },
+  {
+    "id": 216,
+    "name": "aromatherapists",
+    "year": 563,
+    "price": "4842.758",
+    "rarity": "rare"
+  },
+  {
+    "id": 217,
+    "name": "unaccustomedly",
+    "year": 1426,
+    "price": "9196.012",
+    "rarity": "very common"
+  },
+  {
+    "id": 218,
+    "name": "myself",
+    "year": 216,
+    "price": "8796.953",
+    "rarity": "very rare"
+  },
+  {
+    "id": 219,
+    "name": "alphosis",
+    "year": 68,
+    "price": "8319.615",
+    "rarity": "very common"
+  },
+  {
+    "id": 220,
+    "name": "celerities",
+    "year": 312,
+    "price": "4652.750",
+    "rarity": "common"
+  },
+  {
+    "id": 221,
+    "name": "dreariness",
+    "year": 1815,
+    "price": "534.372",
+    "rarity": "rare"
+  },
+  {
+    "id": 222,
+    "name": "nonclassroom",
+    "year": 124,
+    "price": "9567.999",
+    "rarity": "rare"
+  },
+  {
+    "id": 223,
+    "name": "bluegrasses",
+    "year": 1289,
+    "price": "7171.939",
+    "rarity": "rare"
+  },
+  {
+    "id": 224,
+    "name": "bidental",
+    "year": 239,
+    "price": "4212.548",
+    "rarity": "rare"
+  },
+  {
+    "id": 225,
+    "name": "aloofness",
+    "year": 268,
+    "price": "496.054",
+    "rarity": "very rare"
+  },
+  {
+    "id": 226,
+    "name": "nighed",
+    "year": 1960,
+    "price": "8307.970",
+    "rarity": "very rare"
+  },
+  {
+    "id": 227,
+    "name": "workingmen",
+    "year": 774,
+    "price": "6203.982",
+    "rarity": "rare"
+  },
+  {
+    "id": 228,
+    "name": "flatland",
+    "year": 1090,
+    "price": "3871.287",
+    "rarity": "rare"
+  },
+  {
+    "id": 229,
+    "name": "prohibitionist",
+    "year": 722,
+    "price": "6247.230",
+    "rarity": "very rare"
+  },
+  {
+    "id": 230,
+    "name": "rewarms",
+    "year": 1173,
+    "price": "2795.690",
+    "rarity": "rare"
+  },
+  {
+    "id": 231,
+    "name": "bottomed",
+    "year": 1430,
+    "price": "4248.550",
+    "rarity": "very common"
+  },
+  {
+    "id": 232,
+    "name": "unbandages",
+    "year": 1164,
+    "price": "8606.798",
+    "rarity": "very rare"
+  },
+  {
+    "id": 233,
+    "name": "megaphoning",
+    "year": 628,
+    "price": "6799.145",
+    "rarity": "very rare"
+  },
+  {
+    "id": 234,
+    "name": "dolabrate",
+    "year": 1215,
+    "price": "5907.016",
+    "rarity": "common"
+  },
+  {
+    "id": 235,
+    "name": "echolocations",
+    "year": 1296,
+    "price": "8216.337",
+    "rarity": "very rare"
+  },
+  {
+    "id": 236,
+    "name": "rolfer",
+    "year": 790,
+    "price": "1263.234",
+    "rarity": "common"
+  },
+  {
+    "id": 237,
+    "name": "dreading",
+    "year": 1415,
+    "price": "4629.370",
+    "rarity": "common"
+  },
+  {
+    "id": 238,
+    "name": "cybercasts",
+    "year": 529,
+    "price": "2527.531",
+    "rarity": "rare"
+  },
+  {
+    "id": 239,
+    "name": "conservatize",
+    "year": 158,
+    "price": "9589.084",
+    "rarity": "rare"
+  },
+  {
+    "id": 240,
+    "name": "favourer",
+    "year": 183,
+    "price": "4727.892",
+    "rarity": "rare"
+  },
+  {
+    "id": 241,
+    "name": "householder",
+    "year": 1599,
+    "price": "798.051",
+    "rarity": "rare"
+  },
+  {
+    "id": 242,
+    "name": "wisdom",
+    "year": 1064,
+    "price": "2047.621",
+    "rarity": "rare"
+  },
+  {
+    "id": 243,
+    "name": "roisterers",
+    "year": 73,
+    "price": "1010.796",
+    "rarity": "very common"
+  },
+  {
+    "id": 244,
+    "name": "amazons",
+    "year": 1905,
+    "price": "317.888",
+    "rarity": "very rare"
+  },
+  {
+    "id": 245,
+    "name": "ultimacy",
+    "year": 1771,
+    "price": "3581.502",
+    "rarity": "common"
+  },
+  {
+    "id": 246,
+    "name": "bedehouses",
+    "year": 524,
+    "price": "3989.514",
+    "rarity": "very common"
+  },
+  {
+    "id": 247,
+    "name": "afforestations",
+    "year": 1591,
+    "price": "3764.006",
+    "rarity": "very rare"
+  },
+  {
+    "id": 248,
+    "name": "merrythoughts",
+    "year": 1240,
+    "price": "6566.357",
+    "rarity": "rare"
+  },
+  {
+    "id": 249,
+    "name": "mosses",
+    "year": 844,
+    "price": "2716.854",
+    "rarity": "common"
+  },
+  {
+    "id": 250,
+    "name": "leveled",
+    "year": 1825,
+    "price": "53.243",
+    "rarity": "very common"
+  },
+  {
+    "id": 251,
+    "name": "exequial",
+    "year": 1748,
+    "price": "8296.241",
+    "rarity": "very common"
+  },
+  {
+    "id": 252,
+    "name": "anlages",
+    "year": 1294,
+    "price": "3689.259",
+    "rarity": "very rare"
+  },
+  {
+    "id": 253,
+    "name": "prototrophy",
+    "year": 728,
+    "price": "5145.018",
+    "rarity": "common"
+  },
+  {
+    "id": 254,
+    "name": "phoenixlike",
+    "year": 662,
+    "price": "6231.618",
+    "rarity": "very common"
+  },
+  {
+    "id": 255,
+    "name": "diolefins",
+    "year": 78,
+    "price": "6209.772",
+    "rarity": "rare"
+  },
+  {
+    "id": 256,
+    "name": "grecianize",
+    "year": 167,
+    "price": "3587.191",
+    "rarity": "very rare"
+  },
+  {
+    "id": 257,
+    "name": "bareges",
+    "year": 1403,
+    "price": "9959.027",
+    "rarity": "common"
+  },
+  {
+    "id": 258,
+    "name": "physiques",
+    "year": 1140,
+    "price": "1101.708",
+    "rarity": "very rare"
+  },
+  {
+    "id": 259,
+    "name": "campong",
+    "year": 761,
+    "price": "9975.509",
+    "rarity": "rare"
+  },
+  {
+    "id": 260,
+    "name": "miaou",
+    "year": 77,
+    "price": "8651.414",
+    "rarity": "very common"
+  },
+  {
+    "id": 261,
+    "name": "innocuousnesses",
+    "year": 403,
+    "price": "5117.004",
+    "rarity": "very rare"
+  },
+  {
+    "id": 262,
+    "name": "borohydride",
+    "year": 622,
+    "price": "2805.554",
+    "rarity": "common"
+  },
+  {
+    "id": 263,
+    "name": "enthrone",
+    "year": 421,
+    "price": "5410.091",
+    "rarity": "very common"
+  },
+  {
+    "id": 264,
+    "name": "desugars",
+    "year": 452,
+    "price": "3469.874",
+    "rarity": "rare"
+  },
+  {
+    "id": 265,
+    "name": "grouse",
+    "year": 1483,
+    "price": "7923.450",
+    "rarity": "rare"
+  },
+  {
+    "id": 266,
+    "name": "abutment",
+    "year": 1403,
+    "price": "8454.784",
+    "rarity": "rare"
+  },
+  {
+    "id": 267,
+    "name": "drysaltery",
+    "year": 1229,
+    "price": "1704.494",
+    "rarity": "rare"
+  },
+  {
+    "id": 268,
+    "name": "gulls",
+    "year": 918,
+    "price": "5496.407",
+    "rarity": "very rare"
+  },
+  {
+    "id": 269,
+    "name": "ufological",
+    "year": 179,
+    "price": "1285.476",
+    "rarity": "rare"
+  },
+  {
+    "id": 270,
+    "name": "centupled",
+    "year": 1278,
+    "price": "8637.817",
+    "rarity": "very common"
+  },
+  {
+    "id": 271,
+    "name": "perpetuals",
+    "year": 825,
+    "price": "1807.582",
+    "rarity": "very common"
+  },
+  {
+    "id": 272,
+    "name": "squeakers",
+    "year": 302,
+    "price": "8741.600",
+    "rarity": "rare"
+  },
+  {
+    "id": 273,
+    "name": "otocyst",
+    "year": 1586,
+    "price": "103.507",
+    "rarity": "rare"
+  },
+  {
+    "id": 274,
+    "name": "flavanol",
+    "year": 1221,
+    "price": "1684.972",
+    "rarity": "rare"
+  },
+  {
+    "id": 275,
+    "name": "chitlin",
+    "year": 4,
+    "price": "2641.289",
+    "rarity": "very rare"
+  },
+  {
+    "id": 276,
+    "name": "paragoned",
+    "year": 497,
+    "price": "7157.074",
+    "rarity": "rare"
+  },
+  {
+    "id": 277,
+    "name": "contritenesses",
+    "year": 1636,
+    "price": "6003.410",
+    "rarity": "common"
+  },
+  {
+    "id": 278,
+    "name": "phallist",
+    "year": 1962,
+    "price": "8864.318",
+    "rarity": "very common"
+  },
+  {
+    "id": 279,
+    "name": "withes",
+    "year": 1738,
+    "price": "8163.072",
+    "rarity": "rare"
+  },
+  {
+    "id": 280,
+    "name": "naturals",
+    "year": 586,
+    "price": "3121.544",
+    "rarity": "very common"
+  },
+  {
+    "id": 281,
+    "name": "groundsel",
+    "year": 244,
+    "price": "3934.693",
+    "rarity": "very rare"
+  },
+  {
+    "id": 282,
+    "name": "hyperphysical",
+    "year": 923,
+    "price": "4852.725",
+    "rarity": "rare"
+  },
+  {
+    "id": 283,
+    "name": "lardlike",
+    "year": 1058,
+    "price": "9362.654",
+    "rarity": "common"
+  },
+  {
+    "id": 284,
+    "name": "interferometer",
+    "year": 761,
+    "price": "3128.434",
+    "rarity": "very common"
+  },
+  {
+    "id": 285,
+    "name": "firebrick",
+    "year": 629,
+    "price": "1876.679",
+    "rarity": "very common"
+  },
+  {
+    "id": 286,
+    "name": "uncoffin",
+    "year": 1915,
+    "price": "4240.394",
+    "rarity": "rare"
+  },
+  {
+    "id": 287,
+    "name": "nonlinearities",
+    "year": 1830,
+    "price": "8745.460",
+    "rarity": "common"
+  },
+  {
+    "id": 288,
+    "name": "modulating",
+    "year": 940,
+    "price": "9844.213",
+    "rarity": "very common"
+  },
+  {
+    "id": 289,
+    "name": "deoxygenates",
+    "year": 309,
+    "price": "8076.600",
+    "rarity": "common"
+  },
+  {
+    "id": 290,
+    "name": "yobbo",
+    "year": 944,
+    "price": "7843.635",
+    "rarity": "very rare"
+  },
+  {
+    "id": 291,
+    "name": "terrors",
+    "year": 385,
+    "price": "9687.850",
+    "rarity": "rare"
+  },
+  {
+    "id": 292,
+    "name": "rogered",
+    "year": 1262,
+    "price": "3832.128",
+    "rarity": "rare"
+  },
+  {
+    "id": 293,
+    "name": "subsaturated",
+    "year": 785,
+    "price": "5256.330",
+    "rarity": "very rare"
+  },
+  {
+    "id": 294,
+    "name": "physiologic",
+    "year": 1776,
+    "price": "1339.282",
+    "rarity": "rare"
+  },
+  {
+    "id": 295,
+    "name": "advisableness",
+    "year": 443,
+    "price": "9292.397",
+    "rarity": "very rare"
+  },
+  {
+    "id": 296,
+    "name": "skepsises",
+    "year": 639,
+    "price": "2727.163",
+    "rarity": "very common"
+  },
+  {
+    "id": 297,
+    "name": "beckoners",
+    "year": 1918,
+    "price": "9436.437",
+    "rarity": "very common"
+  },
+  {
+    "id": 298,
+    "name": "flashboards",
+    "year": 333,
+    "price": "4364.067",
+    "rarity": "very rare"
+  },
+  {
+    "id": 299,
+    "name": "chiasma",
+    "year": 1372,
+    "price": "68.098",
+    "rarity": "very rare"
+  },
+  {
+    "id": 300,
+    "name": "odorful",
+    "year": 425,
+    "price": "427.134",
+    "rarity": "very rare"
+  },
+  {
+    "id": 301,
+    "name": "retinoscopies",
+    "year": 475,
+    "price": "2689.810",
+    "rarity": "rare"
+  },
+  {
+    "id": 302,
+    "name": "metagenic",
+    "year": 1086,
+    "price": "2165.209",
+    "rarity": "rare"
+  },
+  {
+    "id": 303,
+    "name": "nauseas",
+    "year": 1711,
+    "price": "9470.290",
+    "rarity": "very common"
+  },
+  {
+    "id": 304,
+    "name": "holozoic",
+    "year": 1373,
+    "price": "3871.359",
+    "rarity": "very rare"
+  },
+  {
+    "id": 305,
+    "name": "pancreatic",
+    "year": 678,
+    "price": "5258.140",
+    "rarity": "very common"
+  },
+  {
+    "id": 306,
+    "name": "enshrouds",
+    "year": 1558,
+    "price": "5908.794",
+    "rarity": "rare"
+  },
+  {
+    "id": 307,
+    "name": "pancettas",
+    "year": 396,
+    "price": "466.311",
+    "rarity": "very rare"
+  },
+  {
+    "id": 308,
+    "name": "counterstate",
+    "year": 1590,
+    "price": "1041.704",
+    "rarity": "very rare"
+  },
+  {
+    "id": 309,
+    "name": "reaccedes",
+    "year": 1982,
+    "price": "3117.688",
+    "rarity": "very rare"
+  },
+  {
+    "id": 310,
+    "name": "aleph",
+    "year": 446,
+    "price": "4486.361",
+    "rarity": "very rare"
+  },
+  {
+    "id": 311,
+    "name": "sulfonated",
+    "year": 868,
+    "price": "6406.660",
+    "rarity": "very common"
+  },
+  {
+    "id": 312,
+    "name": "galvanism",
+    "year": 1684,
+    "price": "9925.151",
+    "rarity": "common"
+  },
+  {
+    "id": 313,
+    "name": "dinginess",
+    "year": 505,
+    "price": "7096.169",
+    "rarity": "very rare"
+  },
+  {
+    "id": 314,
+    "name": "vexil",
+    "year": 819,
+    "price": "2156.387",
+    "rarity": "common"
+  },
+  {
+    "id": 315,
+    "name": "flapper",
+    "year": 1287,
+    "price": "257.701",
+    "rarity": "rare"
+  },
+  {
+    "id": 316,
+    "name": "reimbursements",
+    "year": 205,
+    "price": "7836.059",
+    "rarity": "very common"
+  },
+  {
+    "id": 317,
+    "name": "instantiations",
+    "year": 176,
+    "price": "9101.336",
+    "rarity": "very common"
+  },
+  {
+    "id": 318,
+    "name": "megasporangia",
+    "year": 1862,
+    "price": "8759.851",
+    "rarity": "very common"
+  },
+  {
+    "id": 319,
+    "name": "swansdowns",
+    "year": 1975,
+    "price": "3746.305",
+    "rarity": "rare"
+  },
+  {
+    "id": 320,
+    "name": "copasetic",
+    "year": 1363,
+    "price": "8492.730",
+    "rarity": "rare"
+  },
+  {
+    "id": 321,
+    "name": "potlucks",
+    "year": 1053,
+    "price": "5716.512",
+    "rarity": "common"
+  },
+  {
+    "id": 322,
+    "name": "trapeziuses",
+    "year": 104,
+    "price": "5334.695",
+    "rarity": "very common"
+  },
+  {
+    "id": 323,
+    "name": "shinbones",
+    "year": 1890,
+    "price": "65.540",
+    "rarity": "rare"
+  },
+  {
+    "id": 324,
+    "name": "instruments",
+    "year": 551,
+    "price": "1043.773",
+    "rarity": "common"
+  },
+  {
+    "id": 325,
+    "name": "frogfish",
+    "year": 864,
+    "price": "8145.117",
+    "rarity": "very rare"
+  },
+  {
+    "id": 326,
+    "name": "sponsorship",
+    "year": 1076,
+    "price": "8271.220",
+    "rarity": "very common"
+  },
+  {
+    "id": 327,
+    "name": "intestine",
+    "year": 491,
+    "price": "3014.580",
+    "rarity": "very common"
+  },
+  {
+    "id": 328,
+    "name": "bioscientific",
+    "year": 1986,
+    "price": "3178.589",
+    "rarity": "very common"
+  },
+  {
+    "id": 329,
+    "name": "roughage",
+    "year": 65,
+    "price": "5406.630",
+    "rarity": "rare"
+  },
+  {
+    "id": 330,
+    "name": "duetting",
+    "year": 918,
+    "price": "4480.877",
+    "rarity": "very common"
+  },
+  {
+    "id": 331,
+    "name": "eighty",
+    "year": 886,
+    "price": "6913.887",
+    "rarity": "rare"
+  },
+  {
+    "id": 332,
+    "name": "bihourly",
+    "year": 1105,
+    "price": "9054.617",
+    "rarity": "very common"
+  },
+  {
+    "id": 333,
+    "name": "supernormality",
+    "year": 1522,
+    "price": "9032.184",
+    "rarity": "common"
+  },
+  {
+    "id": 334,
+    "name": "misbinding",
+    "year": 1246,
+    "price": "7310.386",
+    "rarity": "very rare"
+  },
+  {
+    "id": 335,
+    "name": "mammalities",
+    "year": 1617,
+    "price": "1754.502",
+    "rarity": "rare"
+  },
+  {
+    "id": 336,
+    "name": "firetrucks",
+    "year": 876,
+    "price": "2271.636",
+    "rarity": "rare"
+  },
+  {
+    "id": 337,
+    "name": "loricate",
+    "year": 1723,
+    "price": "6896.985",
+    "rarity": "very common"
+  },
+  {
+    "id": 338,
+    "name": "nudnick",
+    "year": 1440,
+    "price": "5937.046",
+    "rarity": "very common"
+  },
+  {
+    "id": 339,
+    "name": "unbeknownst",
+    "year": 1619,
+    "price": "3800.732",
+    "rarity": "common"
+  },
+  {
+    "id": 340,
+    "name": "worrisomenesses",
+    "year": 443,
+    "price": "4557.593",
+    "rarity": "rare"
+  },
+  {
+    "id": 341,
+    "name": "counterspies",
+    "year": 504,
+    "price": "2271.378",
+    "rarity": "very common"
+  },
+  {
+    "id": 342,
+    "name": "badge",
+    "year": 865,
+    "price": "1655.888",
+    "rarity": "very common"
+  },
+  {
+    "id": 343,
+    "name": "uraemia",
+    "year": 1179,
+    "price": "655.355",
+    "rarity": "very rare"
+  },
+  {
+    "id": 344,
+    "name": "roadhouses",
+    "year": 15,
+    "price": "9857.068",
+    "rarity": "rare"
+  },
+  {
+    "id": 345,
+    "name": "airdromes",
+    "year": 1272,
+    "price": "7985.524",
+    "rarity": "very rare"
+  },
+  {
+    "id": 346,
+    "name": "pretesting",
+    "year": 1912,
+    "price": "5316.812",
+    "rarity": "very common"
+  },
+  {
+    "id": 347,
+    "name": "reforming",
+    "year": 418,
+    "price": "7168.129",
+    "rarity": "common"
+  },
+  {
+    "id": 348,
+    "name": "auditors",
+    "year": 1083,
+    "price": "2137.928",
+    "rarity": "very rare"
+  },
+  {
+    "id": 349,
+    "name": "functor",
+    "year": 457,
+    "price": "8517.076",
+    "rarity": "very rare"
+  },
+  {
+    "id": 350,
+    "name": "jeux",
+    "year": 23,
+    "price": "9859.666",
+    "rarity": "common"
+  },
+  {
+    "id": 351,
+    "name": "calcarate",
+    "year": 307,
+    "price": "8620.377",
+    "rarity": "very common"
+  },
+  {
+    "id": 352,
+    "name": "galago",
+    "year": 730,
+    "price": "5662.987",
+    "rarity": "very rare"
+  },
+  {
+    "id": 353,
+    "name": "synovitis",
+    "year": 109,
+    "price": "302.956",
+    "rarity": "very common"
+  },
+  {
+    "id": 354,
+    "name": "silicification",
+    "year": 134,
+    "price": "2869.055",
+    "rarity": "very rare"
+  },
+  {
+    "id": 355,
+    "name": "designates",
+    "year": 1411,
+    "price": "8667.788",
+    "rarity": "rare"
+  },
+  {
+    "id": 356,
+    "name": "ringing",
+    "year": 478,
+    "price": "4103.532",
+    "rarity": "common"
+  },
+  {
+    "id": 357,
+    "name": "familiarizes",
+    "year": 1770,
+    "price": "6062.559",
+    "rarity": "rare"
+  },
+  {
+    "id": 358,
+    "name": "tealike",
+    "year": 1421,
+    "price": "8128.238",
+    "rarity": "rare"
+  },
+  {
+    "id": 359,
+    "name": "analysands",
+    "year": 206,
+    "price": "1107.016",
+    "rarity": "common"
+  },
+  {
+    "id": 360,
+    "name": "edgewise",
+    "year": 1304,
+    "price": "251.114",
+    "rarity": "very common"
+  },
+  {
+    "id": 361,
+    "name": "renotified",
+    "year": 498,
+    "price": "1203.453",
+    "rarity": "very rare"
+  },
+  {
+    "id": 362,
+    "name": "ibices",
+    "year": 758,
+    "price": "4301.667",
+    "rarity": "very rare"
+  },
+  {
+    "id": 363,
+    "name": "outring",
+    "year": 495,
+    "price": "3069.350",
+    "rarity": "very rare"
+  },
+  {
+    "id": 364,
+    "name": "outargues",
+    "year": 729,
+    "price": "3362.910",
+    "rarity": "very common"
+  },
+  {
+    "id": 365,
+    "name": "liberates",
+    "year": 1970,
+    "price": "1457.144",
+    "rarity": "rare"
+  },
+  {
+    "id": 366,
+    "name": "offshore",
+    "year": 1124,
+    "price": "7594.199",
+    "rarity": "very common"
+  },
+  {
+    "id": 367,
+    "name": "brained",
+    "year": 1299,
+    "price": "2478.457",
+    "rarity": "common"
+  },
+  {
+    "id": 368,
+    "name": "handwheel",
+    "year": 1624,
+    "price": "7644.659",
+    "rarity": "common"
+  },
+  {
+    "id": 369,
+    "name": "ketonic",
+    "year": 542,
+    "price": "8604.573",
+    "rarity": "very common"
+  },
+  {
+    "id": 370,
+    "name": "enduring",
+    "year": 683,
+    "price": "8427.080",
+    "rarity": "rare"
+  },
+  {
+    "id": 371,
+    "name": "oxaloacetate",
+    "year": 1469,
+    "price": "2271.769",
+    "rarity": "very common"
+  },
+  {
+    "id": 372,
+    "name": "slaughter",
+    "year": 1718,
+    "price": "5892.062",
+    "rarity": "very rare"
+  },
+  {
+    "id": 373,
+    "name": "enucleate",
+    "year": 476,
+    "price": "5875.928",
+    "rarity": "very common"
+  },
+  {
+    "id": 374,
+    "name": "overexertions",
+    "year": 1813,
+    "price": "3118.227",
+    "rarity": "very rare"
+  },
+  {
+    "id": 375,
+    "name": "venograms",
+    "year": 807,
+    "price": "5809.526",
+    "rarity": "very rare"
+  },
+  {
+    "id": 376,
+    "name": "unbalances",
+    "year": 66,
+    "price": "2140.478",
+    "rarity": "rare"
+  },
+  {
+    "id": 377,
+    "name": "phocine",
+    "year": 1227,
+    "price": "9549.125",
+    "rarity": "very common"
+  },
+  {
+    "id": 378,
+    "name": "allotetraploid",
+    "year": 1181,
+    "price": "2793.077",
+    "rarity": "very rare"
+  },
+  {
+    "id": 379,
+    "name": "saunterers",
+    "year": 1339,
+    "price": "4924.229",
+    "rarity": "common"
+  },
+  {
+    "id": 380,
+    "name": "resketching",
+    "year": 105,
+    "price": "8044.101",
+    "rarity": "common"
+  },
+  {
+    "id": 381,
+    "name": "uppiling",
+    "year": 561,
+    "price": "1127.277",
+    "rarity": "rare"
+  },
+  {
+    "id": 382,
+    "name": "attent",
+    "year": 71,
+    "price": "1369.559",
+    "rarity": "very rare"
+  },
+  {
+    "id": 383,
+    "name": "tearaways",
+    "year": 1588,
+    "price": "565.686",
+    "rarity": "common"
+  },
+  {
+    "id": 384,
+    "name": "carnotite",
+    "year": 240,
+    "price": "7338.233",
+    "rarity": "common"
+  },
+  {
+    "id": 385,
+    "name": "tonality",
+    "year": 89,
+    "price": "7820.074",
+    "rarity": "common"
+  },
+  {
+    "id": 386,
+    "name": "clapper",
+    "year": 775,
+    "price": "1649.513",
+    "rarity": "very common"
+  },
+  {
+    "id": 387,
+    "name": "tanbark",
+    "year": 1345,
+    "price": "825.953",
+    "rarity": "rare"
+  },
+  {
+    "id": 388,
+    "name": "chromosomes",
+    "year": 381,
+    "price": "281.657",
+    "rarity": "very rare"
+  },
+  {
+    "id": 389,
+    "name": "headless",
+    "year": 1276,
+    "price": "5407.147",
+    "rarity": "very rare"
+  },
+  {
+    "id": 390,
+    "name": "sidings",
+    "year": 663,
+    "price": "6199.590",
+    "rarity": "rare"
+  },
+  {
+    "id": 391,
+    "name": "dandelions",
+    "year": 1893,
+    "price": "2810.131",
+    "rarity": "common"
+  },
+  {
+    "id": 392,
+    "name": "downshifts",
+    "year": 1361,
+    "price": "7637.855",
+    "rarity": "very rare"
+  },
+  {
+    "id": 393,
+    "name": "dinting",
+    "year": 1080,
+    "price": "3071.023",
+    "rarity": "rare"
+  },
+  {
+    "id": 394,
+    "name": "tangence",
+    "year": 699,
+    "price": "2066.066",
+    "rarity": "rare"
+  },
+  {
+    "id": 395,
+    "name": "palynologists",
+    "year": 1580,
+    "price": "4772.395",
+    "rarity": "common"
+  },
+  {
+    "id": 396,
+    "name": "withstand",
+    "year": 656,
+    "price": "1036.855",
+    "rarity": "very common"
+  },
+  {
+    "id": 397,
+    "name": "redded",
+    "year": 812,
+    "price": "6182.028",
+    "rarity": "common"
+  },
+  {
+    "id": 398,
+    "name": "diagonalizable",
+    "year": 1144,
+    "price": "219.740",
+    "rarity": "very common"
+  },
+  {
+    "id": 399,
+    "name": "pathogenicity",
+    "year": 665,
+    "price": "320.715",
+    "rarity": "common"
+  },
+  {
+    "id": 400,
+    "name": "tastier",
+    "year": 1068,
+    "price": "3482.474",
+    "rarity": "rare"
+  },
+  {
+    "id": 401,
+    "name": "jarvey",
+    "year": 516,
+    "price": "1125.975",
+    "rarity": "very rare"
+  },
+  {
+    "id": 402,
+    "name": "sargasso",
+    "year": 1864,
+    "price": "6422.937",
+    "rarity": "very rare"
+  },
+  {
+    "id": 403,
+    "name": "thunderstone",
+    "year": 359,
+    "price": "6545.664",
+    "rarity": "rare"
+  },
+  {
+    "id": 404,
+    "name": "flogger",
+    "year": 529,
+    "price": "4610.210",
+    "rarity": "very common"
+  },
+  {
+    "id": 405,
+    "name": "acidemia",
+    "year": 961,
+    "price": "7759.736",
+    "rarity": "very rare"
+  },
+  {
+    "id": 406,
+    "name": "infuriations",
+    "year": 1272,
+    "price": "3799.372",
+    "rarity": "very common"
+  },
+  {
+    "id": 407,
+    "name": "alveolate",
+    "year": 919,
+    "price": "3880.505",
+    "rarity": "common"
+  },
+  {
+    "id": 408,
+    "name": "malleolus",
+    "year": 1056,
+    "price": "4429.429",
+    "rarity": "very common"
+  },
+  {
+    "id": 409,
+    "name": "syndactyly",
+    "year": 1949,
+    "price": "129.213",
+    "rarity": "very common"
+  },
+  {
+    "id": 410,
+    "name": "henotheism",
+    "year": 913,
+    "price": "5519.155",
+    "rarity": "rare"
+  },
+  {
+    "id": 411,
+    "name": "delver",
+    "year": 1896,
+    "price": "5797.210",
+    "rarity": "common"
+  },
+  {
+    "id": 412,
+    "name": "aqua",
+    "year": 610,
+    "price": "3337.012",
+    "rarity": "very common"
+  },
+  {
+    "id": 413,
+    "name": "adenitises",
+    "year": 839,
+    "price": "1668.318",
+    "rarity": "common"
+  },
+  {
+    "id": 414,
+    "name": "highbrowism",
+    "year": 1566,
+    "price": "5105.225",
+    "rarity": "very rare"
+  },
+  {
+    "id": 415,
+    "name": "arrestor",
+    "year": 596,
+    "price": "2054.531",
+    "rarity": "very common"
+  },
+  {
+    "id": 416,
+    "name": "sublessees",
+    "year": 204,
+    "price": "5182.773",
+    "rarity": "very common"
+  },
+  {
+    "id": 417,
+    "name": "vibraharpists",
+    "year": 1506,
+    "price": "4945.657",
+    "rarity": "very common"
+  },
+  {
+    "id": 418,
+    "name": "cultigen",
+    "year": 1725,
+    "price": "6853.934",
+    "rarity": "rare"
+  },
+  {
+    "id": 419,
+    "name": "floridity",
+    "year": 1940,
+    "price": "7406.596",
+    "rarity": "rare"
+  },
+  {
+    "id": 420,
+    "name": "supposer",
+    "year": 1959,
+    "price": "7089.899",
+    "rarity": "rare"
+  },
+  {
+    "id": 421,
+    "name": "boomy",
+    "year": 511,
+    "price": "9630.975",
+    "rarity": "rare"
+  },
+  {
+    "id": 422,
+    "name": "photodegradable",
+    "year": 613,
+    "price": "2042.270",
+    "rarity": "very rare"
+  },
+  {
+    "id": 423,
+    "name": "communalize",
+    "year": 593,
+    "price": "8472.045",
+    "rarity": "rare"
+  },
+  {
+    "id": 424,
+    "name": "bungling",
+    "year": 1275,
+    "price": "96.956",
+    "rarity": "very common"
+  },
+  {
+    "id": 425,
+    "name": "modernises",
+    "year": 1335,
+    "price": "4246.871",
+    "rarity": "very common"
+  },
+  {
+    "id": 426,
+    "name": "cadavers",
+    "year": 45,
+    "price": "6692.625",
+    "rarity": "very common"
+  },
+  {
+    "id": 427,
+    "name": "countercries",
+    "year": 1790,
+    "price": "1155.739",
+    "rarity": "common"
+  },
+  {
+    "id": 428,
+    "name": "gawked",
+    "year": 1537,
+    "price": "152.839",
+    "rarity": "very common"
+  },
+  {
+    "id": 429,
+    "name": "unallayed",
+    "year": 135,
+    "price": "5041.526",
+    "rarity": "very rare"
+  },
+  {
+    "id": 430,
+    "name": "sleighers",
+    "year": 98,
+    "price": "1669.692",
+    "rarity": "very common"
+  },
+  {
+    "id": 431,
+    "name": "halcyons",
+    "year": 840,
+    "price": "7072.040",
+    "rarity": "common"
+  },
+  {
+    "id": 432,
+    "name": "restrictives",
+    "year": 1624,
+    "price": "4335.305",
+    "rarity": "rare"
+  },
+  {
+    "id": 433,
+    "name": "warison",
+    "year": 686,
+    "price": "5606.374",
+    "rarity": "very common"
+  },
+  {
+    "id": 434,
+    "name": "vasospastic",
+    "year": 598,
+    "price": "1421.612",
+    "rarity": "very rare"
+  },
+  {
+    "id": 435,
+    "name": "shrieving",
+    "year": 1392,
+    "price": "2810.472",
+    "rarity": "rare"
+  },
+  {
+    "id": 436,
+    "name": "prehandling",
+    "year": 495,
+    "price": "2881.383",
+    "rarity": "very common"
+  },
+  {
+    "id": 437,
+    "name": "alizarines",
+    "year": 128,
+    "price": "6733.793",
+    "rarity": "common"
+  },
+  {
+    "id": 438,
+    "name": "bleaters",
+    "year": 1104,
+    "price": "689.069",
+    "rarity": "common"
+  },
+  {
+    "id": 439,
+    "name": "doggedly",
+    "year": 234,
+    "price": "9851.054",
+    "rarity": "very common"
+  },
+  {
+    "id": 440,
+    "name": "heartseases",
+    "year": 56,
+    "price": "3744.449",
+    "rarity": "very common"
+  },
+  {
+    "id": 441,
+    "name": "champleve",
+    "year": 910,
+    "price": "3229.745",
+    "rarity": "very common"
+  },
+  {
+    "id": 442,
+    "name": "plasms",
+    "year": 1400,
+    "price": "7538.613",
+    "rarity": "very rare"
+  },
+  {
+    "id": 443,
+    "name": "remilitarizing",
+    "year": 407,
+    "price": "1676.854",
+    "rarity": "common"
+  },
+  {
+    "id": 444,
+    "name": "halal",
+    "year": 758,
+    "price": "5346.377",
+    "rarity": "rare"
+  },
+  {
+    "id": 445,
+    "name": "negligences",
+    "year": 1281,
+    "price": "1487.188",
+    "rarity": "very common"
+  },
+  {
+    "id": 446,
+    "name": "propulsion",
+    "year": 1554,
+    "price": "8998.906",
+    "rarity": "very common"
+  },
+  {
+    "id": 447,
+    "name": "caucusing",
+    "year": 1463,
+    "price": "4558.441",
+    "rarity": "very rare"
+  },
+  {
+    "id": 448,
+    "name": "bicarbonates",
+    "year": 148,
+    "price": "2159.835",
+    "rarity": "very common"
+  },
+  {
+    "id": 449,
+    "name": "entanglements",
+    "year": 1952,
+    "price": "6712.023",
+    "rarity": "common"
+  },
+  {
+    "id": 450,
+    "name": "cinchonas",
+    "year": 1388,
+    "price": "5883.760",
+    "rarity": "common"
+  },
+  {
+    "id": 451,
+    "name": "duellers",
+    "year": 1463,
+    "price": "303.103",
+    "rarity": "common"
+  },
+  {
+    "id": 452,
+    "name": "refrozen",
+    "year": 403,
+    "price": "3065.383",
+    "rarity": "rare"
+  },
+  {
+    "id": 453,
+    "name": "closes",
+    "year": 987,
+    "price": "9320.695",
+    "rarity": "very common"
+  },
+  {
+    "id": 454,
+    "name": "gilt",
+    "year": 914,
+    "price": "9773.440",
+    "rarity": "very rare"
+  },
+  {
+    "id": 455,
+    "name": "lyophilizes",
+    "year": 1738,
+    "price": "2522.116",
+    "rarity": "rare"
+  },
+  {
+    "id": 456,
+    "name": "stain",
+    "year": 1147,
+    "price": "6049.953",
+    "rarity": "very common"
+  },
+  {
+    "id": 457,
+    "name": "carillon",
+    "year": 727,
+    "price": "7014.245",
+    "rarity": "rare"
+  },
+  {
+    "id": 458,
+    "name": "godforsaken",
+    "year": 844,
+    "price": "8749.370",
+    "rarity": "common"
+  },
+  {
+    "id": 459,
+    "name": "overstuffs",
+    "year": 1524,
+    "price": "9295.361",
+    "rarity": "common"
+  },
+  {
+    "id": 460,
+    "name": "puritan",
+    "year": 1777,
+    "price": "9199.205",
+    "rarity": "very rare"
+  },
+  {
+    "id": 461,
+    "name": "cowrote",
+    "year": 19,
+    "price": "3688.089",
+    "rarity": "common"
+  },
+  {
+    "id": 462,
+    "name": "verandah",
+    "year": 1112,
+    "price": "8641.196",
+    "rarity": "common"
+  },
+  {
+    "id": 463,
+    "name": "opiumism",
+    "year": 1074,
+    "price": "4962.134",
+    "rarity": "very common"
+  },
+  {
+    "id": 464,
+    "name": "zenanas",
+    "year": 1531,
+    "price": "8508.631",
+    "rarity": "very rare"
+  },
+  {
+    "id": 465,
+    "name": "bumped",
+    "year": 1801,
+    "price": "3478.730",
+    "rarity": "common"
+  },
+  {
+    "id": 466,
+    "name": "cestoid",
+    "year": 1817,
+    "price": "7412.705",
+    "rarity": "very rare"
+  },
+  {
+    "id": 467,
+    "name": "sorbic",
+    "year": 296,
+    "price": "4817.118",
+    "rarity": "common"
+  },
+  {
+    "id": 468,
+    "name": "legitimation",
+    "year": 1734,
+    "price": "582.890",
+    "rarity": "common"
+  },
+  {
+    "id": 469,
+    "name": "inferentially",
+    "year": 878,
+    "price": "8221.019",
+    "rarity": "very rare"
+  },
+  {
+    "id": 470,
+    "name": "caravaning",
+    "year": 1540,
+    "price": "2988.364",
+    "rarity": "very rare"
+  },
+  {
+    "id": 471,
+    "name": "exotropias",
+    "year": 511,
+    "price": "6231.592",
+    "rarity": "common"
+  },
+  {
+    "id": 472,
+    "name": "bacteriuria",
+    "year": 246,
+    "price": "7240.189",
+    "rarity": "very rare"
+  },
+  {
+    "id": 473,
+    "name": "babkas",
+    "year": 27,
+    "price": "7491.247",
+    "rarity": "very common"
+  },
+  {
+    "id": 474,
+    "name": "pyridoxals",
+    "year": 351,
+    "price": "6310.227",
+    "rarity": "very common"
+  },
+  {
+    "id": 475,
+    "name": "hotpressed",
+    "year": 759,
+    "price": "9649.631",
+    "rarity": "rare"
+  },
+  {
+    "id": 476,
+    "name": "emmenagogues",
+    "year": 1669,
+    "price": "6763.290",
+    "rarity": "rare"
+  },
+  {
+    "id": 477,
+    "name": "demotion",
+    "year": 957,
+    "price": "6624.591",
+    "rarity": "very common"
+  },
+  {
+    "id": 478,
+    "name": "nonhospitalized",
+    "year": 146,
+    "price": "4738.990",
+    "rarity": "rare"
+  },
+  {
+    "id": 479,
+    "name": "souvenirs",
+    "year": 1184,
+    "price": "24.341",
+    "rarity": "rare"
+  },
+  {
+    "id": 480,
+    "name": "tetraspores",
+    "year": 68,
+    "price": "6392.145",
+    "rarity": "rare"
+  },
+  {
+    "id": 481,
+    "name": "lowercases",
+    "year": 599,
+    "price": "7951.319",
+    "rarity": "rare"
+  },
+  {
+    "id": 482,
+    "name": "discerned",
+    "year": 1292,
+    "price": "63.873",
+    "rarity": "very common"
+  },
+  {
+    "id": 483,
+    "name": "conferencings",
+    "year": 1738,
+    "price": "6396.030",
+    "rarity": "very rare"
+  },
+  {
+    "id": 484,
+    "name": "biosafety",
+    "year": 1939,
+    "price": "4268.543",
+    "rarity": "very common"
+  },
+  {
+    "id": 485,
+    "name": "whininesses",
+    "year": 991,
+    "price": "5500.729",
+    "rarity": "very common"
+  },
+  {
+    "id": 486,
+    "name": "rattail",
+    "year": 1726,
+    "price": "4670.607",
+    "rarity": "very rare"
+  },
+  {
+    "id": 487,
+    "name": "popish",
+    "year": 171,
+    "price": "6255.217",
+    "rarity": "rare"
+  },
+  {
+    "id": 488,
+    "name": "braising",
+    "year": 1129,
+    "price": "9108.156",
+    "rarity": "common"
+  },
+  {
+    "id": 489,
+    "name": "reave",
+    "year": 685,
+    "price": "2888.069",
+    "rarity": "very rare"
+  },
+  {
+    "id": 490,
+    "name": "convulsive",
+    "year": 835,
+    "price": "9806.118",
+    "rarity": "rare"
+  },
+  {
+    "id": 491,
+    "name": "cecity",
+    "year": 359,
+    "price": "1187.302",
+    "rarity": "common"
+  },
+  {
+    "id": 492,
+    "name": "reenlists",
+    "year": 1737,
+    "price": "2948.307",
+    "rarity": "very common"
+  },
+  {
+    "id": 493,
+    "name": "amphibious",
+    "year": 1508,
+    "price": "1644.333",
+    "rarity": "very rare"
+  },
+  {
+    "id": 494,
+    "name": "homager",
+    "year": 1101,
+    "price": "241.874",
+    "rarity": "very common"
+  },
+  {
+    "id": 495,
+    "name": "stoppers",
+    "year": 1596,
+    "price": "8278.224",
+    "rarity": "very rare"
+  },
+  {
+    "id": 496,
+    "name": "sneakers",
+    "year": 1300,
+    "price": "1446.067",
+    "rarity": "rare"
+  },
+  {
+    "id": 497,
+    "name": "riprap",
+    "year": 152,
+    "price": "2882.927",
+    "rarity": "very rare"
+  },
+  {
+    "id": 498,
+    "name": "appendicectomy",
+    "year": 1782,
+    "price": "7324.647",
+    "rarity": "very common"
+  },
+  {
+    "id": 499,
+    "name": "pragmatic",
+    "year": 330,
+    "price": "932.704",
+    "rarity": "rare"
+  },
+  {
+    "id": 500,
+    "name": "remuneration",
+    "year": 195,
+    "price": "7580.144",
+    "rarity": "rare"
+  },
+  {
+    "id": 501,
+    "name": "spathal",
+    "year": 1037,
+    "price": "5091.868",
+    "rarity": "rare"
+  },
+  {
+    "id": 502,
+    "name": "grebe",
+    "year": 866,
+    "price": "482.630",
+    "rarity": "common"
+  },
+  {
+    "id": 503,
+    "name": "bloodthirstily",
+    "year": 1866,
+    "price": "3015.637",
+    "rarity": "very rare"
+  },
+  {
+    "id": 504,
+    "name": "explicative",
+    "year": 889,
+    "price": "441.475",
+    "rarity": "common"
+  },
+  {
+    "id": 505,
+    "name": "protectors",
+    "year": 496,
+    "price": "7571.494",
+    "rarity": "very common"
+  },
+  {
+    "id": 506,
+    "name": "irritability",
+    "year": 716,
+    "price": "6646.278",
+    "rarity": "common"
+  },
+  {
+    "id": 507,
+    "name": "orator",
+    "year": 710,
+    "price": "2253.462",
+    "rarity": "very common"
+  },
+  {
+    "id": 508,
+    "name": "pepsines",
+    "year": 1635,
+    "price": "9614.508",
+    "rarity": "common"
+  },
+  {
+    "id": 509,
+    "name": "flagellation",
+    "year": 120,
+    "price": "8933.725",
+    "rarity": "very rare"
+  },
+  {
+    "id": 510,
+    "name": "pliotrons",
+    "year": 1323,
+    "price": "9945.476",
+    "rarity": "rare"
+  },
+  {
+    "id": 511,
+    "name": "injurious",
+    "year": 1338,
+    "price": "2772.914",
+    "rarity": "very rare"
+  },
+  {
+    "id": 512,
+    "name": "laities",
+    "year": 1850,
+    "price": "3736.673",
+    "rarity": "very common"
+  },
+  {
+    "id": 513,
+    "name": "blocker",
+    "year": 1151,
+    "price": "8898.271",
+    "rarity": "very common"
+  },
+  {
+    "id": 514,
+    "name": "odometry",
+    "year": 870,
+    "price": "7418.684",
+    "rarity": "rare"
+  },
+  {
+    "id": 515,
+    "name": "noncomplex",
+    "year": 157,
+    "price": "8411.626",
+    "rarity": "very rare"
+  },
+  {
+    "id": 516,
+    "name": "outslicks",
+    "year": 1999,
+    "price": "4460.406",
+    "rarity": "rare"
+  },
+  {
+    "id": 517,
+    "name": "pathologist",
+    "year": 1474,
+    "price": "276.389",
+    "rarity": "very common"
+  },
+  {
+    "id": 518,
+    "name": "sermonizes",
+    "year": 1159,
+    "price": "5204.658",
+    "rarity": "very common"
+  },
+  {
+    "id": 519,
+    "name": "commandment",
+    "year": 354,
+    "price": "7376.835",
+    "rarity": "common"
+  },
+  {
+    "id": 520,
+    "name": "hypostome",
+    "year": 3,
+    "price": "5553.594",
+    "rarity": "rare"
+  },
+  {
+    "id": 521,
+    "name": "lordoma",
+    "year": 1344,
+    "price": "4411.232",
+    "rarity": "rare"
+  },
+  {
+    "id": 522,
+    "name": "streamliner",
+    "year": 410,
+    "price": "1008.325",
+    "rarity": "rare"
+  },
+  {
+    "id": 523,
+    "name": "polis",
+    "year": 1537,
+    "price": "8273.076",
+    "rarity": "common"
+  },
+  {
+    "id": 524,
+    "name": "venial",
+    "year": 1056,
+    "price": "5905.296",
+    "rarity": "very common"
+  },
+  {
+    "id": 525,
+    "name": "pantisocratical",
+    "year": 467,
+    "price": "9616.859",
+    "rarity": "common"
+  },
+  {
+    "id": 526,
+    "name": "humorousness",
+    "year": 751,
+    "price": "8889.555",
+    "rarity": "very common"
+  },
+  {
+    "id": 527,
+    "name": "zander",
+    "year": 1832,
+    "price": "1457.659",
+    "rarity": "rare"
+  },
+  {
+    "id": 528,
+    "name": "serviceberry",
+    "year": 1131,
+    "price": "7784.966",
+    "rarity": "very rare"
+  },
+  {
+    "id": 529,
+    "name": "bulbel",
+    "year": 102,
+    "price": "3839.120",
+    "rarity": "very common"
+  },
+  {
+    "id": 530,
+    "name": "reverts",
+    "year": 527,
+    "price": "8828.519",
+    "rarity": "rare"
+  },
+  {
+    "id": 531,
+    "name": "bailiffs",
+    "year": 286,
+    "price": "1373.749",
+    "rarity": "rare"
+  },
+  {
+    "id": 532,
+    "name": "discoloring",
+    "year": 1495,
+    "price": "4497.656",
+    "rarity": "very common"
+  },
+  {
+    "id": 533,
+    "name": "misshaper",
+    "year": 898,
+    "price": "2899.077",
+    "rarity": "very rare"
+  },
+  {
+    "id": 534,
+    "name": "slaughtered",
+    "year": 1415,
+    "price": "8936.024",
+    "rarity": "rare"
+  },
+  {
+    "id": 535,
+    "name": "photofinishers",
+    "year": 264,
+    "price": "8910.125",
+    "rarity": "very rare"
+  },
+  {
+    "id": 536,
+    "name": "audiotapes",
+    "year": 1106,
+    "price": "489.947",
+    "rarity": "common"
+  },
+  {
+    "id": 537,
+    "name": "politicalize",
+    "year": 736,
+    "price": "5053.484",
+    "rarity": "rare"
+  },
+  {
+    "id": 538,
+    "name": "generousness",
+    "year": 74,
+    "price": "5453.787",
+    "rarity": "rare"
+  },
+  {
+    "id": 539,
+    "name": "clinging",
+    "year": 1703,
+    "price": "1202.341",
+    "rarity": "very rare"
+  },
+  {
+    "id": 540,
+    "name": "sirupier",
+    "year": 698,
+    "price": "5838.287",
+    "rarity": "very common"
+  },
+  {
+    "id": 541,
+    "name": "nimrod",
+    "year": 1719,
+    "price": "965.461",
+    "rarity": "very rare"
+  },
+  {
+    "id": 542,
+    "name": "recanalize",
+    "year": 25,
+    "price": "1428.851",
+    "rarity": "very rare"
+  },
+  {
+    "id": 543,
+    "name": "comeliness",
+    "year": 890,
+    "price": "3382.578",
+    "rarity": "very common"
+  },
+  {
+    "id": 544,
+    "name": "pinkest",
+    "year": 222,
+    "price": "571.744",
+    "rarity": "very rare"
+  },
+  {
+    "id": 545,
+    "name": "besetting",
+    "year": 1743,
+    "price": "4993.714",
+    "rarity": "very common"
+  },
+  {
+    "id": 546,
+    "name": "showbread",
+    "year": 778,
+    "price": "2233.512",
+    "rarity": "very common"
+  },
+  {
+    "id": 547,
+    "name": "interspersing",
+    "year": 500,
+    "price": "5969.488",
+    "rarity": "common"
+  },
+  {
+    "id": 548,
+    "name": "deflections",
+    "year": 1657,
+    "price": "9645.351",
+    "rarity": "common"
+  },
+  {
+    "id": 549,
+    "name": "pencilers",
+    "year": 1230,
+    "price": "149.515",
+    "rarity": "very rare"
+  },
+  {
+    "id": 550,
+    "name": "joker",
+    "year": 338,
+    "price": "9531.851",
+    "rarity": "very rare"
+  },
+  {
+    "id": 551,
+    "name": "particularizing",
+    "year": 1430,
+    "price": "8169.650",
+    "rarity": "very common"
+  },
+  {
+    "id": 552,
+    "name": "newsreels",
+    "year": 312,
+    "price": "3465.773",
+    "rarity": "rare"
+  },
+  {
+    "id": 553,
+    "name": "anarchically",
+    "year": 1958,
+    "price": "3707.577",
+    "rarity": "very rare"
+  },
+  {
+    "id": 554,
+    "name": "cytolytic",
+    "year": 1764,
+    "price": "940.613",
+    "rarity": "rare"
+  },
+  {
+    "id": 555,
+    "name": "torridly",
+    "year": 303,
+    "price": "2651.531",
+    "rarity": "common"
+  },
+  {
+    "id": 556,
+    "name": "pittances",
+    "year": 1353,
+    "price": "4139.266",
+    "rarity": "very common"
+  },
+  {
+    "id": 557,
+    "name": "exhibitionism",
+    "year": 1558,
+    "price": "6702.734",
+    "rarity": "very common"
+  },
+  {
+    "id": 558,
+    "name": "maceraters",
+    "year": 890,
+    "price": "5108.999",
+    "rarity": "rare"
+  },
+  {
+    "id": 559,
+    "name": "stalkless",
+    "year": 1065,
+    "price": "5064.580",
+    "rarity": "very common"
+  },
+  {
+    "id": 560,
+    "name": "trollops",
+    "year": 1043,
+    "price": "7031.488",
+    "rarity": "very rare"
+  },
+  {
+    "id": 561,
+    "name": "deglaciated",
+    "year": 1323,
+    "price": "390.905",
+    "rarity": "rare"
+  },
+  {
+    "id": 562,
+    "name": "interlaying",
+    "year": 1103,
+    "price": "7891.064",
+    "rarity": "rare"
+  },
+  {
+    "id": 563,
+    "name": "mandamus",
+    "year": 1459,
+    "price": "6798.350",
+    "rarity": "rare"
+  },
+  {
+    "id": 564,
+    "name": "transcendency",
+    "year": 1518,
+    "price": "9784.350",
+    "rarity": "common"
+  },
+  {
+    "id": 565,
+    "name": "eloiner",
+    "year": 574,
+    "price": "6335.696",
+    "rarity": "rare"
+  },
+  {
+    "id": 566,
+    "name": "chemisorptions",
+    "year": 1100,
+    "price": "169.005",
+    "rarity": "rare"
+  },
+  {
+    "id": 567,
+    "name": "swound",
+    "year": 897,
+    "price": "8295.024",
+    "rarity": "common"
+  },
+  {
+    "id": 568,
+    "name": "underarms",
+    "year": 431,
+    "price": "9091.046",
+    "rarity": "very rare"
+  },
+  {
+    "id": 569,
+    "name": "chancels",
+    "year": 472,
+    "price": "1534.933",
+    "rarity": "very rare"
+  },
+  {
+    "id": 570,
+    "name": "signifyings",
+    "year": 1908,
+    "price": "785.855",
+    "rarity": "common"
+  },
+  {
+    "id": 571,
+    "name": "gentrify",
+    "year": 1069,
+    "price": "6271.497",
+    "rarity": "common"
+  },
+  {
+    "id": 572,
+    "name": "ballplayers",
+    "year": 1162,
+    "price": "9900.992",
+    "rarity": "very common"
+  },
+  {
+    "id": 573,
+    "name": "submersibles",
+    "year": 1535,
+    "price": "4354.638",
+    "rarity": "very rare"
+  },
+  {
+    "id": 574,
+    "name": "remarkably",
+    "year": 1991,
+    "price": "5913.479",
+    "rarity": "very rare"
+  },
+  {
+    "id": 575,
+    "name": "pemoline",
+    "year": 13,
+    "price": "3958.302",
+    "rarity": "rare"
+  },
+  {
+    "id": 576,
+    "name": "recompositions",
+    "year": 759,
+    "price": "9383.536",
+    "rarity": "very rare"
+  },
+  {
+    "id": 577,
+    "name": "unbosomers",
+    "year": 1959,
+    "price": "7977.388",
+    "rarity": "very rare"
+  },
+  {
+    "id": 578,
+    "name": "intermingles",
+    "year": 1642,
+    "price": "2439.038",
+    "rarity": "very rare"
+  },
+  {
+    "id": 579,
+    "name": "trusted",
+    "year": 985,
+    "price": "1154.080",
+    "rarity": "very rare"
+  },
+  {
+    "id": 580,
+    "name": "betrayed",
+    "year": 198,
+    "price": "9858.852",
+    "rarity": "common"
+  },
+  {
+    "id": 581,
+    "name": "impinge",
+    "year": 1239,
+    "price": "3082.512",
+    "rarity": "very common"
+  },
+  {
+    "id": 582,
+    "name": "plethoric",
+    "year": 777,
+    "price": "4859.227",
+    "rarity": "rare"
+  },
+  {
+    "id": 583,
+    "name": "reloading",
+    "year": 1275,
+    "price": "9982.534",
+    "rarity": "very rare"
+  },
+  {
+    "id": 584,
+    "name": "shellier",
+    "year": 54,
+    "price": "2650.748",
+    "rarity": "very rare"
+  },
+  {
+    "id": 585,
+    "name": "unhallow",
+    "year": 1826,
+    "price": "3880.943",
+    "rarity": "common"
+  },
+  {
+    "id": 586,
+    "name": "serendipity",
+    "year": 943,
+    "price": "5884.797",
+    "rarity": "very common"
+  },
+  {
+    "id": 587,
+    "name": "tonicity",
+    "year": 1671,
+    "price": "2156.326",
+    "rarity": "very common"
+  },
+  {
+    "id": 588,
+    "name": "rockless",
+    "year": 278,
+    "price": "8100.579",
+    "rarity": "very common"
+  },
+  {
+    "id": 589,
+    "name": "reservist",
+    "year": 1535,
+    "price": "5872.556",
+    "rarity": "common"
+  },
+  {
+    "id": 590,
+    "name": "resays",
+    "year": 774,
+    "price": "2794.318",
+    "rarity": "common"
+  },
+  {
+    "id": 591,
+    "name": "floruit",
+    "year": 1385,
+    "price": "2278.844",
+    "rarity": "rare"
+  },
+  {
+    "id": 592,
+    "name": "cantalas",
+    "year": 612,
+    "price": "4505.101",
+    "rarity": "very rare"
+  },
+  {
+    "id": 593,
+    "name": "parabiosis",
+    "year": 1569,
+    "price": "9842.481",
+    "rarity": "rare"
+  },
+  {
+    "id": 594,
+    "name": "shunners",
+    "year": 1663,
+    "price": "1390.675",
+    "rarity": "very common"
+  },
+  {
+    "id": 595,
+    "name": "detrains",
+    "year": 1402,
+    "price": "7982.499",
+    "rarity": "common"
+  },
+  {
+    "id": 596,
+    "name": "prestressing",
+    "year": 366,
+    "price": "6984.329",
+    "rarity": "common"
+  },
+  {
+    "id": 597,
+    "name": "partisan",
+    "year": 1348,
+    "price": "9361.094",
+    "rarity": "very rare"
+  },
+  {
+    "id": 598,
+    "name": "unambivalent",
+    "year": 1226,
+    "price": "5556.711",
+    "rarity": "common"
+  },
+  {
+    "id": 599,
+    "name": "homeschooled",
+    "year": 834,
+    "price": "2594.158",
+    "rarity": "common"
+  },
+  {
+    "id": 600,
+    "name": "demilunes",
+    "year": 1591,
+    "price": "3370.321",
+    "rarity": "very rare"
+  },
+  {
+    "id": 601,
+    "name": "pregames",
+    "year": 102,
+    "price": "8862.696",
+    "rarity": "rare"
+  },
+  {
+    "id": 602,
+    "name": "censures",
+    "year": 698,
+    "price": "8092.130",
+    "rarity": "very common"
+  },
+  {
+    "id": 603,
+    "name": "vertigos",
+    "year": 774,
+    "price": "906.379",
+    "rarity": "very common"
+  },
+  {
+    "id": 604,
+    "name": "ungratefully",
+    "year": 1688,
+    "price": "3142.517",
+    "rarity": "rare"
+  },
+  {
+    "id": 605,
+    "name": "gales",
+    "year": 1865,
+    "price": "7082.204",
+    "rarity": "common"
+  },
+  {
+    "id": 606,
+    "name": "prithee",
+    "year": 1910,
+    "price": "3709.535",
+    "rarity": "common"
+  },
+  {
+    "id": 607,
+    "name": "internality",
+    "year": 1430,
+    "price": "8785.652",
+    "rarity": "very common"
+  },
+  {
+    "id": 608,
+    "name": "kevels",
+    "year": 155,
+    "price": "6703.323",
+    "rarity": "very common"
+  },
+  {
+    "id": 609,
+    "name": "eyeable",
+    "year": 1609,
+    "price": "2817.111",
+    "rarity": "rare"
+  },
+  {
+    "id": 610,
+    "name": "tomography",
+    "year": 1504,
+    "price": "3517.467",
+    "rarity": "very common"
+  },
+  {
+    "id": 611,
+    "name": "steno",
+    "year": 413,
+    "price": "4900.092",
+    "rarity": "common"
+  },
+  {
+    "id": 612,
+    "name": "headache",
+    "year": 829,
+    "price": "5919.460",
+    "rarity": "common"
+  },
+  {
+    "id": 613,
+    "name": "miscarriages",
+    "year": 43,
+    "price": "7140.734",
+    "rarity": "rare"
+  },
+  {
+    "id": 614,
+    "name": "chevalets",
+    "year": 1111,
+    "price": "2438.966",
+    "rarity": "very rare"
+  },
+  {
+    "id": 615,
+    "name": "swarms",
+    "year": 1213,
+    "price": "7833.473",
+    "rarity": "common"
+  },
+  {
+    "id": 616,
+    "name": "electrostatics",
+    "year": 1525,
+    "price": "4226.042",
+    "rarity": "very common"
+  },
+  {
+    "id": 617,
+    "name": "unnatural",
+    "year": 476,
+    "price": "772.849",
+    "rarity": "common"
+  },
+  {
+    "id": 618,
+    "name": "aristocrat",
+    "year": 368,
+    "price": "6290.418",
+    "rarity": "very common"
+  },
+  {
+    "id": 619,
+    "name": "blushful",
+    "year": 1351,
+    "price": "4226.880",
+    "rarity": "rare"
+  },
+  {
+    "id": 620,
+    "name": "elaphine",
+    "year": 1145,
+    "price": "4752.111",
+    "rarity": "very common"
+  },
+  {
+    "id": 621,
+    "name": "subzone",
+    "year": 1934,
+    "price": "5479.305",
+    "rarity": "very rare"
+  },
+  {
+    "id": 622,
+    "name": "fustinesses",
+    "year": 668,
+    "price": "8816.925",
+    "rarity": "common"
+  },
+  {
+    "id": 623,
+    "name": "bedwarmers",
+    "year": 381,
+    "price": "4079.757",
+    "rarity": "common"
+  },
+  {
+    "id": 624,
+    "name": "nongovernment",
+    "year": 1370,
+    "price": "7149.756",
+    "rarity": "rare"
+  },
+  {
+    "id": 625,
+    "name": "gummers",
+    "year": 839,
+    "price": "4905.115",
+    "rarity": "rare"
+  },
+  {
+    "id": 626,
+    "name": "caracaras",
+    "year": 140,
+    "price": "6355.326",
+    "rarity": "very rare"
+  },
+  {
+    "id": 627,
+    "name": "strappers",
+    "year": 1467,
+    "price": "4846.939",
+    "rarity": "rare"
+  },
+  {
+    "id": 628,
+    "name": "refoundations",
+    "year": 478,
+    "price": "4846.903",
+    "rarity": "very common"
+  },
+  {
+    "id": 629,
+    "name": "now",
+    "year": 553,
+    "price": "7388.849",
+    "rarity": "common"
+  },
+  {
+    "id": 630,
+    "name": "airbag",
+    "year": 1171,
+    "price": "8559.215",
+    "rarity": "common"
+  },
+  {
+    "id": 631,
+    "name": "hippiest",
+    "year": 1630,
+    "price": "5662.333",
+    "rarity": "common"
+  },
+  {
+    "id": 632,
+    "name": "stonefish",
+    "year": 640,
+    "price": "6811.552",
+    "rarity": "common"
+  },
+  {
+    "id": 633,
+    "name": "damagingly",
+    "year": 885,
+    "price": "5406.954",
+    "rarity": "very rare"
+  },
+  {
+    "id": 634,
+    "name": "expresser",
+    "year": 902,
+    "price": "4528.489",
+    "rarity": "very common"
+  },
+  {
+    "id": 635,
+    "name": "gulps",
+    "year": 1985,
+    "price": "2109.641",
+    "rarity": "rare"
+  },
+  {
+    "id": 636,
+    "name": "boxfuls",
+    "year": 757,
+    "price": "4440.947",
+    "rarity": "very common"
+  },
+  {
+    "id": 637,
+    "name": "backcasts",
+    "year": 1371,
+    "price": "785.338",
+    "rarity": "rare"
+  },
+  {
+    "id": 638,
+    "name": "unwind",
+    "year": 593,
+    "price": "447.092",
+    "rarity": "rare"
+  },
+  {
+    "id": 639,
+    "name": "bicentric",
+    "year": 385,
+    "price": "9951.410",
+    "rarity": "rare"
+  },
+  {
+    "id": 640,
+    "name": "verderor",
+    "year": 1916,
+    "price": "3386.124",
+    "rarity": "very rare"
+  },
+  {
+    "id": 641,
+    "name": "deconsecrated",
+    "year": 757,
+    "price": "5665.800",
+    "rarity": "common"
+  },
+  {
+    "id": 642,
+    "name": "gabardines",
+    "year": 1663,
+    "price": "5004.032",
+    "rarity": "very common"
+  },
+  {
+    "id": 643,
+    "name": "anticapitalist",
+    "year": 986,
+    "price": "8736.550",
+    "rarity": "very common"
+  },
+  {
+    "id": 644,
+    "name": "admixture",
+    "year": 1429,
+    "price": "2202.193",
+    "rarity": "very common"
+  },
+  {
+    "id": 645,
+    "name": "obnubilations",
+    "year": 622,
+    "price": "6743.306",
+    "rarity": "rare"
+  },
+  {
+    "id": 646,
+    "name": "decisiveness",
+    "year": 1592,
+    "price": "3700.087",
+    "rarity": "very rare"
+  },
+  {
+    "id": 647,
+    "name": "chattels",
+    "year": 1225,
+    "price": "9721.960",
+    "rarity": "very common"
+  },
+  {
+    "id": 648,
+    "name": "crosspieces",
+    "year": 1636,
+    "price": "3156.307",
+    "rarity": "very common"
+  },
+  {
+    "id": 649,
+    "name": "carthorses",
+    "year": 1093,
+    "price": "1849.983",
+    "rarity": "rare"
+  },
+  {
+    "id": 650,
+    "name": "panada",
+    "year": 1066,
+    "price": "7592.513",
+    "rarity": "very rare"
+  },
+  {
+    "id": 651,
+    "name": "homopolymeric",
+    "year": 924,
+    "price": "3453.249",
+    "rarity": "very rare"
+  },
+  {
+    "id": 652,
+    "name": "archers",
+    "year": 1375,
+    "price": "2156.128",
+    "rarity": "very rare"
+  },
+  {
+    "id": 653,
+    "name": "stemless",
+    "year": 508,
+    "price": "5549.863",
+    "rarity": "common"
+  },
+  {
+    "id": 654,
+    "name": "subvention",
+    "year": 442,
+    "price": "9900.960",
+    "rarity": "very common"
+  },
+  {
+    "id": 655,
+    "name": "coelomata",
+    "year": 1533,
+    "price": "7863.027",
+    "rarity": "rare"
+  },
+  {
+    "id": 656,
+    "name": "toluates",
+    "year": 1158,
+    "price": "614.405",
+    "rarity": "common"
+  },
+  {
+    "id": 657,
+    "name": "keefs",
+    "year": 95,
+    "price": "778.883",
+    "rarity": "common"
+  },
+  {
+    "id": 658,
+    "name": "poll",
+    "year": 1614,
+    "price": "6403.036",
+    "rarity": "very rare"
+  },
+  {
+    "id": 659,
+    "name": "thermoduric",
+    "year": 235,
+    "price": "9422.004",
+    "rarity": "rare"
+  },
+  {
+    "id": 660,
+    "name": "trogs",
+    "year": 380,
+    "price": "9976.302",
+    "rarity": "common"
+  },
+  {
+    "id": 661,
+    "name": "unsawed",
+    "year": 881,
+    "price": "3567.710",
+    "rarity": "common"
+  },
+  {
+    "id": 662,
+    "name": "helicoptered",
+    "year": 815,
+    "price": "753.321",
+    "rarity": "rare"
+  },
+  {
+    "id": 663,
+    "name": "codependents",
+    "year": 1511,
+    "price": "3999.473",
+    "rarity": "rare"
+  },
+  {
+    "id": 664,
+    "name": "casefy",
+    "year": 375,
+    "price": "1634.270",
+    "rarity": "very rare"
+  },
+  {
+    "id": 665,
+    "name": "gingeley",
+    "year": 651,
+    "price": "5450.913",
+    "rarity": "very common"
+  },
+  {
+    "id": 666,
+    "name": "upcoast",
+    "year": 1216,
+    "price": "1312.331",
+    "rarity": "very rare"
+  },
+  {
+    "id": 667,
+    "name": "acrimonies",
+    "year": 1329,
+    "price": "3209.449",
+    "rarity": "rare"
+  },
+  {
+    "id": 668,
+    "name": "rundown",
+    "year": 644,
+    "price": "5493.909",
+    "rarity": "rare"
+  },
+  {
+    "id": 669,
+    "name": "stride",
+    "year": 1400,
+    "price": "9326.993",
+    "rarity": "very common"
+  },
+  {
+    "id": 670,
+    "name": "hyposensitized",
+    "year": 1381,
+    "price": "6601.758",
+    "rarity": "very rare"
+  },
+  {
+    "id": 671,
+    "name": "cuddling",
+    "year": 354,
+    "price": "5745.878",
+    "rarity": "very common"
+  },
+  {
+    "id": 672,
+    "name": "swimmer",
+    "year": 439,
+    "price": "3466.978",
+    "rarity": "very rare"
+  },
+  {
+    "id": 673,
+    "name": "counterthrusts",
+    "year": 1734,
+    "price": "6954.237",
+    "rarity": "common"
+  },
+  {
+    "id": 674,
+    "name": "sectioned",
+    "year": 1713,
+    "price": "3674.369",
+    "rarity": "rare"
+  },
+  {
+    "id": 675,
+    "name": "internucleotide",
+    "year": 1765,
+    "price": "605.598",
+    "rarity": "very common"
+  },
+  {
+    "id": 676,
+    "name": "rebegin",
+    "year": 1643,
+    "price": "7175.399",
+    "rarity": "very common"
+  },
+  {
+    "id": 677,
+    "name": "hyperuricemias",
+    "year": 26,
+    "price": "1070.502",
+    "rarity": "very common"
+  },
+  {
+    "id": 678,
+    "name": "lucite",
+    "year": 746,
+    "price": "7778.196",
+    "rarity": "very common"
+  },
+  {
+    "id": 679,
+    "name": "fleapit",
+    "year": 1001,
+    "price": "3370.577",
+    "rarity": "rare"
+  },
+  {
+    "id": 680,
+    "name": "fatherhood",
+    "year": 1899,
+    "price": "9250.248",
+    "rarity": "common"
+  },
+  {
+    "id": 681,
+    "name": "fruitlike",
+    "year": 1767,
+    "price": "4166.557",
+    "rarity": "rare"
+  },
+  {
+    "id": 682,
+    "name": "ethnobotanies",
+    "year": 914,
+    "price": "1328.497",
+    "rarity": "common"
+  },
+  {
+    "id": 683,
+    "name": "insatiate",
+    "year": 1766,
+    "price": "5933.897",
+    "rarity": "very common"
+  },
+  {
+    "id": 684,
+    "name": "outtricking",
+    "year": 9,
+    "price": "9946.282",
+    "rarity": "rare"
+  },
+  {
+    "id": 685,
+    "name": "hexapod",
+    "year": 1626,
+    "price": "2505.755",
+    "rarity": "very common"
+  },
+  {
+    "id": 686,
+    "name": "threadfin",
+    "year": 269,
+    "price": "1943.885",
+    "rarity": "very rare"
+  },
+  {
+    "id": 687,
+    "name": "incentive",
+    "year": 73,
+    "price": "9196.436",
+    "rarity": "rare"
+  },
+  {
+    "id": 688,
+    "name": "stoopball",
+    "year": 824,
+    "price": "1955.155",
+    "rarity": "very common"
+  },
+  {
+    "id": 689,
+    "name": "reparable",
+    "year": 786,
+    "price": "5004.638",
+    "rarity": "very rare"
+  },
+  {
+    "id": 690,
+    "name": "absorbency",
+    "year": 191,
+    "price": "2787.127",
+    "rarity": "common"
+  },
+  {
+    "id": 691,
+    "name": "myoinositols",
+    "year": 1000,
+    "price": "3648.292",
+    "rarity": "common"
+  },
+  {
+    "id": 692,
+    "name": "subjugations",
+    "year": 222,
+    "price": "1430.231",
+    "rarity": "very rare"
+  },
+  {
+    "id": 693,
+    "name": "prebind",
+    "year": 575,
+    "price": "2191.890",
+    "rarity": "common"
+  },
+  {
+    "id": 694,
+    "name": "euphonic",
+    "year": 1499,
+    "price": "7744.865",
+    "rarity": "rare"
+  },
+  {
+    "id": 695,
+    "name": "whirry",
+    "year": 792,
+    "price": "5531.146",
+    "rarity": "common"
+  },
+  {
+    "id": 696,
+    "name": "fortuities",
+    "year": 605,
+    "price": "5372.785",
+    "rarity": "rare"
+  },
+  {
+    "id": 697,
+    "name": "brackets",
+    "year": 966,
+    "price": "5461.853",
+    "rarity": "very common"
+  },
+  {
+    "id": 698,
+    "name": "isobathic",
+    "year": 1579,
+    "price": "4127.210",
+    "rarity": "very rare"
+  },
+  {
+    "id": 699,
+    "name": "videocassettes",
+    "year": 131,
+    "price": "919.609",
+    "rarity": "rare"
+  },
+  {
+    "id": 700,
+    "name": "flammabilities",
+    "year": 1091,
+    "price": "5709.132",
+    "rarity": "rare"
+  },
+  {
+    "id": 701,
+    "name": "placements",
+    "year": 1522,
+    "price": "7010.977",
+    "rarity": "very rare"
+  },
+  {
+    "id": 702,
+    "name": "gushinesses",
+    "year": 126,
+    "price": "4409.249",
+    "rarity": "rare"
+  },
+  {
+    "id": 703,
+    "name": "film",
+    "year": 650,
+    "price": "8568.128",
+    "rarity": "common"
+  },
+  {
+    "id": 704,
+    "name": "luces",
+    "year": 1082,
+    "price": "4360.911",
+    "rarity": "very rare"
+  },
+  {
+    "id": 705,
+    "name": "intellections",
+    "year": 1375,
+    "price": "7168.566",
+    "rarity": "very common"
+  },
+  {
+    "id": 706,
+    "name": "unlikely",
+    "year": 1206,
+    "price": "7621.605",
+    "rarity": "very common"
+  },
+  {
+    "id": 707,
+    "name": "zerk",
+    "year": 304,
+    "price": "3592.131",
+    "rarity": "common"
+  },
+  {
+    "id": 708,
+    "name": "accustomed",
+    "year": 1378,
+    "price": "3606.253",
+    "rarity": "very rare"
+  },
+  {
+    "id": 709,
+    "name": "questionaries",
+    "year": 720,
+    "price": "8675.799",
+    "rarity": "very common"
+  },
+  {
+    "id": 710,
+    "name": "superman",
+    "year": 220,
+    "price": "6109.217",
+    "rarity": "rare"
+  },
+  {
+    "id": 711,
+    "name": "kalmias",
+    "year": 38,
+    "price": "4176.996",
+    "rarity": "very rare"
+  },
+  {
+    "id": 712,
+    "name": "sheughs",
+    "year": 272,
+    "price": "4961.483",
+    "rarity": "very common"
+  },
+  {
+    "id": 713,
+    "name": "miseases",
+    "year": 1176,
+    "price": "4808.006",
+    "rarity": "very rare"
+  },
+  {
+    "id": 714,
+    "name": "subzero",
+    "year": 685,
+    "price": "5382.758",
+    "rarity": "common"
+  },
+  {
+    "id": 715,
+    "name": "assorters",
+    "year": 794,
+    "price": "4597.885",
+    "rarity": "common"
+  },
+  {
+    "id": 716,
+    "name": "lyases",
+    "year": 988,
+    "price": "641.934",
+    "rarity": "rare"
+  },
+  {
+    "id": 717,
+    "name": "outjumped",
+    "year": 434,
+    "price": "6141.817",
+    "rarity": "common"
+  },
+  {
+    "id": 718,
+    "name": "blacktopping",
+    "year": 1491,
+    "price": "2898.181",
+    "rarity": "very common"
+  },
+  {
+    "id": 719,
+    "name": "flanger",
+    "year": 719,
+    "price": "3038.457",
+    "rarity": "common"
+  },
+  {
+    "id": 720,
+    "name": "tribrachic",
+    "year": 371,
+    "price": "6701.441",
+    "rarity": "rare"
+  },
+  {
+    "id": 721,
+    "name": "replan",
+    "year": 761,
+    "price": "806.739",
+    "rarity": "very common"
+  },
+  {
+    "id": 722,
+    "name": "cyclamates",
+    "year": 79,
+    "price": "5463.680",
+    "rarity": "rare"
+  },
+  {
+    "id": 723,
+    "name": "lophophores",
+    "year": 1126,
+    "price": "6427.490",
+    "rarity": "very common"
+  },
+  {
+    "id": 724,
+    "name": "microbusses",
+    "year": 1261,
+    "price": "5935.626",
+    "rarity": "very common"
+  },
+  {
+    "id": 725,
+    "name": "confoundingly",
+    "year": 899,
+    "price": "7712.854",
+    "rarity": "very common"
+  },
+  {
+    "id": 726,
+    "name": "futhark",
+    "year": 909,
+    "price": "7978.949",
+    "rarity": "very common"
+  },
+  {
+    "id": 727,
+    "name": "frankincense",
+    "year": 617,
+    "price": "9620.508",
+    "rarity": "very common"
+  },
+  {
+    "id": 728,
+    "name": "spectate",
+    "year": 730,
+    "price": "9459.310",
+    "rarity": "very rare"
+  },
+  {
+    "id": 729,
+    "name": "widow",
+    "year": 1878,
+    "price": "1974.609",
+    "rarity": "very common"
+  },
+  {
+    "id": 730,
+    "name": "wardships",
+    "year": 1981,
+    "price": "4144.439",
+    "rarity": "rare"
+  },
+  {
+    "id": 731,
+    "name": "colitic",
+    "year": 64,
+    "price": "3303.317",
+    "rarity": "common"
+  },
+  {
+    "id": 732,
+    "name": "puzzledly",
+    "year": 717,
+    "price": "1390.095",
+    "rarity": "rare"
+  },
+  {
+    "id": 733,
+    "name": "conditionality",
+    "year": 566,
+    "price": "2798.308",
+    "rarity": "very rare"
+  },
+  {
+    "id": 734,
+    "name": "unruffled",
+    "year": 1652,
+    "price": "425.876",
+    "rarity": "rare"
+  },
+  {
+    "id": 735,
+    "name": "outhowling",
+    "year": 6,
+    "price": "8882.572",
+    "rarity": "very rare"
+  },
+  {
+    "id": 736,
+    "name": "lighteners",
+    "year": 1125,
+    "price": "5069.413",
+    "rarity": "common"
+  },
+  {
+    "id": 737,
+    "name": "insular",
+    "year": 757,
+    "price": "4142.682",
+    "rarity": "common"
+  },
+  {
+    "id": 738,
+    "name": "polymathies",
+    "year": 448,
+    "price": "708.785",
+    "rarity": "very rare"
+  },
+  {
+    "id": 739,
+    "name": "busked",
+    "year": 1516,
+    "price": "9565.183",
+    "rarity": "very rare"
+  },
+  {
+    "id": 740,
+    "name": "antiromanticism",
+    "year": 1504,
+    "price": "7790.337",
+    "rarity": "very common"
+  },
+  {
+    "id": 741,
+    "name": "stringily",
+    "year": 1502,
+    "price": "7344.779",
+    "rarity": "very rare"
+  },
+  {
+    "id": 742,
+    "name": "substituent",
+    "year": 461,
+    "price": "1692.802",
+    "rarity": "rare"
+  },
+  {
+    "id": 743,
+    "name": "composters",
+    "year": 294,
+    "price": "3160.825",
+    "rarity": "very rare"
+  },
+  {
+    "id": 744,
+    "name": "triggered",
+    "year": 1862,
+    "price": "9958.809",
+    "rarity": "very rare"
+  },
+  {
+    "id": 745,
+    "name": "reteaching",
+    "year": 1547,
+    "price": "8350.509",
+    "rarity": "very common"
+  },
+  {
+    "id": 746,
+    "name": "missionize",
+    "year": 217,
+    "price": "4450.254",
+    "rarity": "common"
+  },
+  {
+    "id": 747,
+    "name": "prancers",
+    "year": 443,
+    "price": "3068.706",
+    "rarity": "rare"
+  },
+  {
+    "id": 748,
+    "name": "diddlies",
+    "year": 1800,
+    "price": "8524.573",
+    "rarity": "very rare"
+  },
+  {
+    "id": 749,
+    "name": "surefire",
+    "year": 1522,
+    "price": "7376.408",
+    "rarity": "rare"
+  },
+  {
+    "id": 750,
+    "name": "motet",
+    "year": 534,
+    "price": "2752.176",
+    "rarity": "rare"
+  },
+  {
+    "id": 751,
+    "name": "paraffines",
+    "year": 1138,
+    "price": "782.265",
+    "rarity": "very common"
+  },
+  {
+    "id": 752,
+    "name": "contradicts",
+    "year": 822,
+    "price": "4554.415",
+    "rarity": "very common"
+  },
+  {
+    "id": 753,
+    "name": "jivers",
+    "year": 1739,
+    "price": "4604.978",
+    "rarity": "common"
+  },
+  {
+    "id": 754,
+    "name": "declension",
+    "year": 804,
+    "price": "4222.804",
+    "rarity": "very rare"
+  },
+  {
+    "id": 755,
+    "name": "reappointment",
+    "year": 1928,
+    "price": "6179.759",
+    "rarity": "very rare"
+  },
+  {
+    "id": 756,
+    "name": "slanderous",
+    "year": 1752,
+    "price": "5864.663",
+    "rarity": "very rare"
+  },
+  {
+    "id": 757,
+    "name": "wavelength",
+    "year": 1788,
+    "price": "6556.860",
+    "rarity": "rare"
+  },
+  {
+    "id": 758,
+    "name": "towellings",
+    "year": 550,
+    "price": "7135.974",
+    "rarity": "common"
+  },
+  {
+    "id": 759,
+    "name": "spools",
+    "year": 1068,
+    "price": "2067.068",
+    "rarity": "rare"
+  },
+  {
+    "id": 760,
+    "name": "gumdrop",
+    "year": 1215,
+    "price": "3811.942",
+    "rarity": "common"
+  },
+  {
+    "id": 761,
+    "name": "boshboks",
+    "year": 118,
+    "price": "6151.859",
+    "rarity": "common"
+  },
+  {
+    "id": 762,
+    "name": "algorithms",
+    "year": 1346,
+    "price": "3676.467",
+    "rarity": "very rare"
+  },
+  {
+    "id": 763,
+    "name": "shinily",
+    "year": 1256,
+    "price": "6919.573",
+    "rarity": "rare"
+  },
+  {
+    "id": 764,
+    "name": "shahdoms",
+    "year": 630,
+    "price": "5945.707",
+    "rarity": "very common"
+  },
+  {
+    "id": 765,
+    "name": "nonnaval",
+    "year": 49,
+    "price": "5849.733",
+    "rarity": "common"
+  },
+  {
+    "id": 766,
+    "name": "tumbrels",
+    "year": 1067,
+    "price": "5101.825",
+    "rarity": "very common"
+  },
+  {
+    "id": 767,
+    "name": "sobbing",
+    "year": 1425,
+    "price": "8876.695",
+    "rarity": "common"
+  },
+  {
+    "id": 768,
+    "name": "recrudesce",
+    "year": 339,
+    "price": "6522.261",
+    "rarity": "common"
+  },
+  {
+    "id": 769,
+    "name": "undiagnosed",
+    "year": 1818,
+    "price": "108.489",
+    "rarity": "very rare"
+  },
+  {
+    "id": 770,
+    "name": "lordlinesses",
+    "year": 501,
+    "price": "6207.375",
+    "rarity": "rare"
+  },
+  {
+    "id": 771,
+    "name": "faintest",
+    "year": 1152,
+    "price": "3237.707",
+    "rarity": "common"
+  },
+  {
+    "id": 772,
+    "name": "oviposition",
+    "year": 646,
+    "price": "3377.847",
+    "rarity": "rare"
+  },
+  {
+    "id": 773,
+    "name": "cutesie",
+    "year": 1230,
+    "price": "6077.397",
+    "rarity": "very rare"
+  },
+  {
+    "id": 774,
+    "name": "gossipped",
+    "year": 1668,
+    "price": "2759.146",
+    "rarity": "very common"
+  },
+  {
+    "id": 775,
+    "name": "touchpads",
+    "year": 382,
+    "price": "5647.586",
+    "rarity": "rare"
+  },
+  {
+    "id": 776,
+    "name": "cyanogens",
+    "year": 718,
+    "price": "9049.243",
+    "rarity": "very common"
+  },
+  {
+    "id": 777,
+    "name": "encephalitic",
+    "year": 21,
+    "price": "2378.302",
+    "rarity": "common"
+  },
+  {
+    "id": 778,
+    "name": "foretaste",
+    "year": 1149,
+    "price": "7746.510",
+    "rarity": "common"
+  },
+  {
+    "id": 779,
+    "name": "dissipatedly",
+    "year": 1773,
+    "price": "1046.336",
+    "rarity": "very rare"
+  },
+  {
+    "id": 780,
+    "name": "millivolt",
+    "year": 1485,
+    "price": "8233.329",
+    "rarity": "common"
+  },
+  {
+    "id": 781,
+    "name": "handbreadth",
+    "year": 393,
+    "price": "8437.229",
+    "rarity": "very common"
+  },
+  {
+    "id": 782,
+    "name": "schmaltziest",
+    "year": 1838,
+    "price": "1273.842",
+    "rarity": "very common"
+  },
+  {
+    "id": 783,
+    "name": "recodified",
+    "year": 1796,
+    "price": "5741.040",
+    "rarity": "very common"
+  },
+  {
+    "id": 784,
+    "name": "sinfonie",
+    "year": 1260,
+    "price": "7983.001",
+    "rarity": "rare"
+  },
+  {
+    "id": 785,
+    "name": "sclerotics",
+    "year": 923,
+    "price": "6934.037",
+    "rarity": "very rare"
+  },
+  {
+    "id": 786,
+    "name": "silver",
+    "year": 80,
+    "price": "3082.470",
+    "rarity": "very rare"
+  },
+  {
+    "id": 787,
+    "name": "heapers",
+    "year": 1146,
+    "price": "9099.218",
+    "rarity": "rare"
+  },
+  {
+    "id": 788,
+    "name": "miscomputations",
+    "year": 224,
+    "price": "9701.458",
+    "rarity": "very rare"
+  },
+  {
+    "id": 789,
+    "name": "postediting",
+    "year": 850,
+    "price": "99.848",
+    "rarity": "very rare"
+  },
+  {
+    "id": 790,
+    "name": "sensualistic",
+    "year": 1851,
+    "price": "5494.923",
+    "rarity": "rare"
+  },
+  {
+    "id": 791,
+    "name": "stampless",
+    "year": 787,
+    "price": "138.854",
+    "rarity": "common"
+  },
+  {
+    "id": 792,
+    "name": "finalisms",
+    "year": 1018,
+    "price": "7242.864",
+    "rarity": "very rare"
+  },
+  {
+    "id": 793,
+    "name": "seedsman",
+    "year": 780,
+    "price": "3506.677",
+    "rarity": "common"
+  },
+  {
+    "id": 794,
+    "name": "headline",
+    "year": 1436,
+    "price": "366.517",
+    "rarity": "very common"
+  },
+  {
+    "id": 795,
+    "name": "thumb",
+    "year": 1213,
+    "price": "5828.050",
+    "rarity": "common"
+  },
+  {
+    "id": 796,
+    "name": "trays",
+    "year": 1257,
+    "price": "4629.008",
+    "rarity": "very common"
+  },
+  {
+    "id": 797,
+    "name": "grieves",
+    "year": 81,
+    "price": "5110.063",
+    "rarity": "very rare"
+  },
+  {
+    "id": 798,
+    "name": "walkingsticks",
+    "year": 828,
+    "price": "2394.251",
+    "rarity": "very common"
+  },
+  {
+    "id": 799,
+    "name": "cohesion",
+    "year": 1322,
+    "price": "6491.989",
+    "rarity": "very rare"
+  },
+  {
+    "id": 800,
+    "name": "fatidic",
+    "year": 22,
+    "price": "4123.228",
+    "rarity": "common"
+  },
+  {
+    "id": 801,
+    "name": "homonymies",
+    "year": 599,
+    "price": "3815.472",
+    "rarity": "common"
+  },
+  {
+    "id": 802,
+    "name": "informedly",
+    "year": 1007,
+    "price": "8347.744",
+    "rarity": "rare"
+  },
+  {
+    "id": 803,
+    "name": "qanats",
+    "year": 1906,
+    "price": "4383.923",
+    "rarity": "very common"
+  },
+  {
+    "id": 804,
+    "name": "seringa",
+    "year": 912,
+    "price": "8095.992",
+    "rarity": "rare"
+  },
+  {
+    "id": 805,
+    "name": "retentiveness",
+    "year": 280,
+    "price": "2348.068",
+    "rarity": "common"
+  },
+  {
+    "id": 806,
+    "name": "dustoff",
+    "year": 343,
+    "price": "2445.071",
+    "rarity": "common"
+  },
+  {
+    "id": 807,
+    "name": "linotypers",
+    "year": 1850,
+    "price": "3922.456",
+    "rarity": "very rare"
+  },
+  {
+    "id": 808,
+    "name": "mezquits",
+    "year": 1064,
+    "price": "1152.080",
+    "rarity": "common"
+  },
+  {
+    "id": 809,
+    "name": "centaury",
+    "year": 1704,
+    "price": "3791.602",
+    "rarity": "very rare"
+  },
+  {
+    "id": 810,
+    "name": "lichtly",
+    "year": 1783,
+    "price": "7610.706",
+    "rarity": "very common"
+  },
+  {
+    "id": 811,
+    "name": "drifty",
+    "year": 283,
+    "price": "1474.244",
+    "rarity": "very rare"
+  },
+  {
+    "id": 812,
+    "name": "patchworking",
+    "year": 1322,
+    "price": "7426.257",
+    "rarity": "very common"
+  },
+  {
+    "id": 813,
+    "name": "colonialism",
+    "year": 1991,
+    "price": "9373.324",
+    "rarity": "very rare"
+  },
+  {
+    "id": 814,
+    "name": "perfidiousness",
+    "year": 739,
+    "price": "5253.315",
+    "rarity": "rare"
+  },
+  {
+    "id": 815,
+    "name": "convicts",
+    "year": 766,
+    "price": "2295.730",
+    "rarity": "rare"
+  },
+  {
+    "id": 816,
+    "name": "ebonies",
+    "year": 803,
+    "price": "8597.987",
+    "rarity": "rare"
+  },
+  {
+    "id": 817,
+    "name": "ungloving",
+    "year": 1882,
+    "price": "658.528",
+    "rarity": "common"
+  },
+  {
+    "id": 818,
+    "name": "bridgework",
+    "year": 563,
+    "price": "1788.912",
+    "rarity": "rare"
+  },
+  {
+    "id": 819,
+    "name": "fictioneer",
+    "year": 1454,
+    "price": "3148.884",
+    "rarity": "common"
+  },
+  {
+    "id": 820,
+    "name": "dangers",
+    "year": 1394,
+    "price": "6654.497",
+    "rarity": "rare"
+  },
+  {
+    "id": 821,
+    "name": "manure",
+    "year": 1257,
+    "price": "3627.363",
+    "rarity": "common"
+  },
+  {
+    "id": 822,
+    "name": "defected",
+    "year": 312,
+    "price": "5915.067",
+    "rarity": "very rare"
+  },
+  {
+    "id": 823,
+    "name": "luging",
+    "year": 126,
+    "price": "8707.610",
+    "rarity": "very common"
+  },
+  {
+    "id": 824,
+    "name": "synclines",
+    "year": 1049,
+    "price": "848.192",
+    "rarity": "common"
+  },
+  {
+    "id": 825,
+    "name": "mangles",
+    "year": 1890,
+    "price": "7146.161",
+    "rarity": "rare"
+  },
+  {
+    "id": 826,
+    "name": "overrated",
+    "year": 296,
+    "price": "5712.768",
+    "rarity": "common"
+  },
+  {
+    "id": 827,
+    "name": "affordably",
+    "year": 698,
+    "price": "808.391",
+    "rarity": "common"
+  },
+  {
+    "id": 828,
+    "name": "airproofs",
+    "year": 760,
+    "price": "9725.374",
+    "rarity": "rare"
+  },
+  {
+    "id": 829,
+    "name": "diester",
+    "year": 1624,
+    "price": "3618.901",
+    "rarity": "very rare"
+  },
+  {
+    "id": 830,
+    "name": "halls",
+    "year": 1305,
+    "price": "1338.982",
+    "rarity": "very common"
+  },
+  {
+    "id": 831,
+    "name": "expectances",
+    "year": 286,
+    "price": "868.907",
+    "rarity": "rare"
+  },
+  {
+    "id": 832,
+    "name": "shadowgraphies",
+    "year": 1465,
+    "price": "7701.638",
+    "rarity": "common"
+  },
+  {
+    "id": 833,
+    "name": "realnesses",
+    "year": 116,
+    "price": "7925.815",
+    "rarity": "common"
+  },
+  {
+    "id": 834,
+    "name": "noisome",
+    "year": 1291,
+    "price": "6706.175",
+    "rarity": "common"
+  },
+  {
+    "id": 835,
+    "name": "isoprene",
+    "year": 1845,
+    "price": "2500.688",
+    "rarity": "common"
+  },
+  {
+    "id": 836,
+    "name": "boosts",
+    "year": 1707,
+    "price": "6286.754",
+    "rarity": "common"
+  },
+  {
+    "id": 837,
+    "name": "brutishness",
+    "year": 1701,
+    "price": "7030.117",
+    "rarity": "very rare"
+  },
+  {
+    "id": 838,
+    "name": "circuity",
+    "year": 1316,
+    "price": "8504.005",
+    "rarity": "common"
+  },
+  {
+    "id": 839,
+    "name": "overprivileged",
+    "year": 1820,
+    "price": "3173.801",
+    "rarity": "rare"
+  },
+  {
+    "id": 840,
+    "name": "filmless",
+    "year": 978,
+    "price": "7946.936",
+    "rarity": "rare"
+  },
+  {
+    "id": 841,
+    "name": "redigresses",
+    "year": 1422,
+    "price": "1545.416",
+    "rarity": "very common"
+  },
+  {
+    "id": 842,
+    "name": "cryptic",
+    "year": 1947,
+    "price": "6446.471",
+    "rarity": "rare"
+  },
+  {
+    "id": 843,
+    "name": "thirster",
+    "year": 224,
+    "price": "621.767",
+    "rarity": "rare"
+  },
+  {
+    "id": 844,
+    "name": "unbitter",
+    "year": 729,
+    "price": "7172.787",
+    "rarity": "very common"
+  },
+  {
+    "id": 845,
+    "name": "autotransformer",
+    "year": 1123,
+    "price": "459.072",
+    "rarity": "rare"
+  },
+  {
+    "id": 846,
+    "name": "barehead",
+    "year": 1222,
+    "price": "5355.137",
+    "rarity": "common"
+  },
+  {
+    "id": 847,
+    "name": "fireballers",
+    "year": 421,
+    "price": "5746.703",
+    "rarity": "very common"
+  },
+  {
+    "id": 848,
+    "name": "immortelle",
+    "year": 956,
+    "price": "883.619",
+    "rarity": "common"
+  },
+  {
+    "id": 849,
+    "name": "cornifies",
+    "year": 1271,
+    "price": "5359.563",
+    "rarity": "rare"
+  },
+  {
+    "id": 850,
+    "name": "weirdnesses",
+    "year": 20,
+    "price": "2061.315",
+    "rarity": "rare"
+  },
+  {
+    "id": 851,
+    "name": "consummatory",
+    "year": 3,
+    "price": "688.531",
+    "rarity": "very common"
+  },
+  {
+    "id": 852,
+    "name": "harder",
+    "year": 1022,
+    "price": "5250.506",
+    "rarity": "very rare"
+  },
+  {
+    "id": 853,
+    "name": "penuchles",
+    "year": 535,
+    "price": "4921.486",
+    "rarity": "rare"
+  },
+  {
+    "id": 854,
+    "name": "revamps",
+    "year": 902,
+    "price": "1990.107",
+    "rarity": "rare"
+  },
+  {
+    "id": 855,
+    "name": "granulose",
+    "year": 774,
+    "price": "3855.602",
+    "rarity": "common"
+  },
+  {
+    "id": 856,
+    "name": "jobs",
+    "year": 643,
+    "price": "5004.794",
+    "rarity": "very rare"
+  },
+  {
+    "id": 857,
+    "name": "figural",
+    "year": 1681,
+    "price": "6224.034",
+    "rarity": "common"
+  },
+  {
+    "id": 858,
+    "name": "gladdening",
+    "year": 912,
+    "price": "1028.519",
+    "rarity": "very common"
+  },
+  {
+    "id": 859,
+    "name": "contagious",
+    "year": 78,
+    "price": "5983.855",
+    "rarity": "rare"
+  },
+  {
+    "id": 860,
+    "name": "foolhardinesses",
+    "year": 1250,
+    "price": "2656.908",
+    "rarity": "very rare"
+  },
+  {
+    "id": 861,
+    "name": "kennelling",
+    "year": 546,
+    "price": "4781.948",
+    "rarity": "very rare"
+  },
+  {
+    "id": 862,
+    "name": "archegonial",
+    "year": 1324,
+    "price": "9052.555",
+    "rarity": "very common"
+  },
+  {
+    "id": 863,
+    "name": "neoorthodoxy",
+    "year": 1503,
+    "price": "6546.883",
+    "rarity": "common"
+  },
+  {
+    "id": 864,
+    "name": "religion",
+    "year": 1717,
+    "price": "8848.224",
+    "rarity": "very common"
+  },
+  {
+    "id": 865,
+    "name": "subshaft",
+    "year": 973,
+    "price": "9183.249",
+    "rarity": "very common"
+  },
+  {
+    "id": 866,
+    "name": "schooners",
+    "year": 398,
+    "price": "4654.794",
+    "rarity": "common"
+  },
+  {
+    "id": 867,
+    "name": "snuffler",
+    "year": 1499,
+    "price": "7991.647",
+    "rarity": "rare"
+  },
+  {
+    "id": 868,
+    "name": "leapt",
+    "year": 1517,
+    "price": "7845.725",
+    "rarity": "very rare"
+  },
+  {
+    "id": 869,
+    "name": "charmless",
+    "year": 1626,
+    "price": "9918.081",
+    "rarity": "very rare"
+  },
+  {
+    "id": 870,
+    "name": "announcements",
+    "year": 152,
+    "price": "6866.724",
+    "rarity": "very common"
+  },
+  {
+    "id": 871,
+    "name": "percher",
+    "year": 534,
+    "price": "9054.492",
+    "rarity": "rare"
+  },
+  {
+    "id": 872,
+    "name": "convects",
+    "year": 570,
+    "price": "5079.804",
+    "rarity": "rare"
+  },
+  {
+    "id": 873,
+    "name": "oboes",
+    "year": 145,
+    "price": "2535.133",
+    "rarity": "common"
+  },
+  {
+    "id": 874,
+    "name": "isolates",
+    "year": 742,
+    "price": "4977.934",
+    "rarity": "very rare"
+  },
+  {
+    "id": 875,
+    "name": "developer",
+    "year": 840,
+    "price": "7514.234",
+    "rarity": "very common"
+  },
+  {
+    "id": 876,
+    "name": "preordination",
+    "year": 823,
+    "price": "9870.333",
+    "rarity": "rare"
+  },
+  {
+    "id": 877,
+    "name": "hyperboreans",
+    "year": 82,
+    "price": "7086.900",
+    "rarity": "very rare"
+  },
+  {
+    "id": 878,
+    "name": "bienniums",
+    "year": 1955,
+    "price": "6944.501",
+    "rarity": "very rare"
+  },
+  {
+    "id": 879,
+    "name": "belong",
+    "year": 1843,
+    "price": "861.273",
+    "rarity": "common"
+  },
+  {
+    "id": 880,
+    "name": "bimillennials",
+    "year": 1401,
+    "price": "4617.678",
+    "rarity": "rare"
+  },
+  {
+    "id": 881,
+    "name": "embarked",
+    "year": 1754,
+    "price": "7712.224",
+    "rarity": "rare"
+  },
+  {
+    "id": 882,
+    "name": "scandalling",
+    "year": 1428,
+    "price": "675.566",
+    "rarity": "very rare"
+  },
+  {
+    "id": 883,
+    "name": "antihuman",
+    "year": 1540,
+    "price": "5260.473",
+    "rarity": "very rare"
+  },
+  {
+    "id": 884,
+    "name": "nonmatriculated",
+    "year": 106,
+    "price": "1974.973",
+    "rarity": "common"
+  },
+  {
+    "id": 885,
+    "name": "cornel",
+    "year": 973,
+    "price": "7582.066",
+    "rarity": "very common"
+  },
+  {
+    "id": 886,
+    "name": "irksomeness",
+    "year": 446,
+    "price": "3839.044",
+    "rarity": "rare"
+  },
+  {
+    "id": 887,
+    "name": "incredibility",
+    "year": 461,
+    "price": "9635.202",
+    "rarity": "very common"
+  },
+  {
+    "id": 888,
+    "name": "tonguing",
+    "year": 173,
+    "price": "6017.608",
+    "rarity": "common"
+  },
+  {
+    "id": 889,
+    "name": "placidly",
+    "year": 842,
+    "price": "3198.357",
+    "rarity": "rare"
+  },
+  {
+    "id": 890,
+    "name": "debits",
+    "year": 191,
+    "price": "5810.714",
+    "rarity": "very common"
+  },
+  {
+    "id": 891,
+    "name": "relapsed",
+    "year": 1340,
+    "price": "4226.294",
+    "rarity": "very rare"
+  },
+  {
+    "id": 892,
+    "name": "outsells",
+    "year": 1477,
+    "price": "376.032",
+    "rarity": "rare"
+  },
+  {
+    "id": 893,
+    "name": "malodors",
+    "year": 657,
+    "price": "4342.854",
+    "rarity": "very rare"
+  },
+  {
+    "id": 894,
+    "name": "sinister",
+    "year": 549,
+    "price": "1923.058",
+    "rarity": "very rare"
+  },
+  {
+    "id": 895,
+    "name": "justifies",
+    "year": 341,
+    "price": "9985.530",
+    "rarity": "very rare"
+  },
+  {
+    "id": 896,
+    "name": "facedowns",
+    "year": 1934,
+    "price": "6152.725",
+    "rarity": "very rare"
+  },
+  {
+    "id": 897,
+    "name": "unsettlingly",
+    "year": 539,
+    "price": "7033.407",
+    "rarity": "very common"
+  },
+  {
+    "id": 898,
+    "name": "griot",
+    "year": 1332,
+    "price": "420.452",
+    "rarity": "very common"
+  },
+  {
+    "id": 899,
+    "name": "waveform",
+    "year": 158,
+    "price": "6502.953",
+    "rarity": "very rare"
+  },
+  {
+    "id": 900,
+    "name": "adulterants",
+    "year": 615,
+    "price": "4561.622",
+    "rarity": "common"
+  },
+  {
+    "id": 901,
+    "name": "cerebrum",
+    "year": 1448,
+    "price": "4380.508",
+    "rarity": "rare"
+  },
+  {
+    "id": 902,
+    "name": "forlornest",
+    "year": 1467,
+    "price": "2358.856",
+    "rarity": "common"
+  },
+  {
+    "id": 903,
+    "name": "asphyxial",
+    "year": 33,
+    "price": "6217.908",
+    "rarity": "very common"
+  },
+  {
+    "id": 904,
+    "name": "bastiles",
+    "year": 893,
+    "price": "2972.588",
+    "rarity": "very common"
+  },
+  {
+    "id": 905,
+    "name": "jupe",
+    "year": 474,
+    "price": "9414.061",
+    "rarity": "common"
+  },
+  {
+    "id": 906,
+    "name": "researchers",
+    "year": 1893,
+    "price": "4889.732",
+    "rarity": "rare"
+  },
+  {
+    "id": 907,
+    "name": "infringe",
+    "year": 181,
+    "price": "3633.020",
+    "rarity": "very common"
+  },
+  {
+    "id": 908,
+    "name": "bamboozled",
+    "year": 298,
+    "price": "7166.540",
+    "rarity": "common"
+  },
+  {
+    "id": 909,
+    "name": "scribers",
+    "year": 1570,
+    "price": "1395.076",
+    "rarity": "very rare"
+  },
+  {
+    "id": 910,
+    "name": "efficiently",
+    "year": 1193,
+    "price": "2182.941",
+    "rarity": "rare"
+  },
+  {
+    "id": 911,
+    "name": "lichis",
+    "year": 1035,
+    "price": "5194.550",
+    "rarity": "rare"
+  },
+  {
+    "id": 912,
+    "name": "clonking",
+    "year": 815,
+    "price": "3323.698",
+    "rarity": "very common"
+  },
+  {
+    "id": 913,
+    "name": "unflappably",
+    "year": 1260,
+    "price": "950.751",
+    "rarity": "common"
+  },
+  {
+    "id": 914,
+    "name": "floribundas",
+    "year": 1491,
+    "price": "9386.362",
+    "rarity": "very common"
+  },
+  {
+    "id": 915,
+    "name": "inestimably",
+    "year": 237,
+    "price": "3929.855",
+    "rarity": "common"
+  },
+  {
+    "id": 916,
+    "name": "inheritability",
+    "year": 609,
+    "price": "9203.848",
+    "rarity": "very rare"
+  },
+  {
+    "id": 917,
+    "name": "caesar",
+    "year": 396,
+    "price": "5096.808",
+    "rarity": "rare"
+  },
+  {
+    "id": 918,
+    "name": "flyweight",
+    "year": 1991,
+    "price": "1168.206",
+    "rarity": "common"
+  },
+  {
+    "id": 919,
+    "name": "singable",
+    "year": 1695,
+    "price": "7355.932",
+    "rarity": "very rare"
+  },
+  {
+    "id": 920,
+    "name": "bilboa",
+    "year": 1913,
+    "price": "8764.219",
+    "rarity": "rare"
+  },
+  {
+    "id": 921,
+    "name": "suppleness",
+    "year": 1886,
+    "price": "6618.185",
+    "rarity": "very rare"
+  },
+  {
+    "id": 922,
+    "name": "spongiest",
+    "year": 377,
+    "price": "8698.103",
+    "rarity": "very rare"
+  },
+  {
+    "id": 923,
+    "name": "promisors",
+    "year": 1416,
+    "price": "6922.751",
+    "rarity": "rare"
+  },
+  {
+    "id": 924,
+    "name": "teguments",
+    "year": 1591,
+    "price": "128.052",
+    "rarity": "rare"
+  },
+  {
+    "id": 925,
+    "name": "silviculturist",
+    "year": 280,
+    "price": "7129.651",
+    "rarity": "rare"
+  },
+  {
+    "id": 926,
+    "name": "purificators",
+    "year": 1737,
+    "price": "9249.983",
+    "rarity": "common"
+  },
+  {
+    "id": 927,
+    "name": "sphenes",
+    "year": 1282,
+    "price": "2225.130",
+    "rarity": "rare"
+  },
+  {
+    "id": 928,
+    "name": "kefir",
+    "year": 1993,
+    "price": "5886.339",
+    "rarity": "rare"
+  },
+  {
+    "id": 929,
+    "name": "affirmation",
+    "year": 1347,
+    "price": "2335.366",
+    "rarity": "very common"
+  },
+  {
+    "id": 930,
+    "name": "outplotting",
+    "year": 764,
+    "price": "3184.959",
+    "rarity": "rare"
+  },
+  {
+    "id": 931,
+    "name": "cesuras",
+    "year": 1996,
+    "price": "4591.505",
+    "rarity": "very rare"
+  },
+  {
+    "id": 932,
+    "name": "adenosis",
+    "year": 1318,
+    "price": "1832.926",
+    "rarity": "very rare"
+  },
+  {
+    "id": 933,
+    "name": "altruistic",
+    "year": 851,
+    "price": "5346.935",
+    "rarity": "rare"
+  },
+  {
+    "id": 934,
+    "name": "laboring",
+    "year": 984,
+    "price": "7949.383",
+    "rarity": "rare"
+  },
+  {
+    "id": 935,
+    "name": "thimerosal",
+    "year": 85,
+    "price": "8438.717",
+    "rarity": "rare"
+  },
+  {
+    "id": 936,
+    "name": "layerage",
+    "year": 1911,
+    "price": "4040.893",
+    "rarity": "common"
+  },
+  {
+    "id": 937,
+    "name": "retinoblastomas",
+    "year": 909,
+    "price": "9258.710",
+    "rarity": "very rare"
+  },
+  {
+    "id": 938,
+    "name": "playground",
+    "year": 680,
+    "price": "7806.575",
+    "rarity": "common"
+  },
+  {
+    "id": 939,
+    "name": "bearskin",
+    "year": 719,
+    "price": "2343.124",
+    "rarity": "very common"
+  },
+  {
+    "id": 940,
+    "name": "counterpower",
+    "year": 387,
+    "price": "6276.039",
+    "rarity": "rare"
+  },
+  {
+    "id": 941,
+    "name": "picturization",
+    "year": 562,
+    "price": "7906.013",
+    "rarity": "common"
+  },
+  {
+    "id": 942,
+    "name": "pocketbook",
+    "year": 445,
+    "price": "6815.489",
+    "rarity": "common"
+  },
+  {
+    "id": 943,
+    "name": "postdate",
+    "year": 209,
+    "price": "5333.222",
+    "rarity": "rare"
+  },
+  {
+    "id": 944,
+    "name": "volcanicities",
+    "year": 519,
+    "price": "7610.543",
+    "rarity": "common"
+  },
+  {
+    "id": 945,
+    "name": "oversups",
+    "year": 54,
+    "price": "1280.919",
+    "rarity": "common"
+  },
+  {
+    "id": 946,
+    "name": "endleaf",
+    "year": 1740,
+    "price": "77.634",
+    "rarity": "very rare"
+  },
+  {
+    "id": 947,
+    "name": "polestars",
+    "year": 489,
+    "price": "2838.650",
+    "rarity": "rare"
+  },
+  {
+    "id": 948,
+    "name": "utmosts",
+    "year": 1481,
+    "price": "7698.059",
+    "rarity": "rare"
+  },
+  {
+    "id": 949,
+    "name": "outflown",
+    "year": 1719,
+    "price": "5105.556",
+    "rarity": "very rare"
+  },
+  {
+    "id": 950,
+    "name": "worldlinesses",
+    "year": 1942,
+    "price": "5696.406",
+    "rarity": "rare"
+  },
+  {
+    "id": 951,
+    "name": "bunglingly",
+    "year": 381,
+    "price": "7332.865",
+    "rarity": "rare"
+  },
+  {
+    "id": 952,
+    "name": "shillelagh",
+    "year": 1175,
+    "price": "9627.283",
+    "rarity": "common"
+  },
+  {
+    "id": 953,
+    "name": "blatter",
+    "year": 69,
+    "price": "3149.856",
+    "rarity": "common"
+  },
+  {
+    "id": 954,
+    "name": "clewed",
+    "year": 881,
+    "price": "7321.499",
+    "rarity": "rare"
+  },
+  {
+    "id": 955,
+    "name": "radicchio",
+    "year": 744,
+    "price": "6777.999",
+    "rarity": "common"
+  },
+  {
+    "id": 956,
+    "name": "laces",
+    "year": 1783,
+    "price": "2635.124",
+    "rarity": "very rare"
+  },
+  {
+    "id": 957,
+    "name": "transience",
+    "year": 1687,
+    "price": "2246.693",
+    "rarity": "common"
+  },
+  {
+    "id": 958,
+    "name": "carbamide",
+    "year": 1913,
+    "price": "5416.557",
+    "rarity": "very common"
+  },
+  {
+    "id": 959,
+    "name": "masala",
+    "year": 479,
+    "price": "2444.125",
+    "rarity": "very rare"
+  },
+  {
+    "id": 960,
+    "name": "narcissisms",
+    "year": 721,
+    "price": "3897.060",
+    "rarity": "very rare"
+  },
+  {
+    "id": 961,
+    "name": "cassiterite",
+    "year": 1862,
+    "price": "4588.208",
+    "rarity": "very common"
+  },
+  {
+    "id": 962,
+    "name": "blamelessly",
+    "year": 1936,
+    "price": "4730.294",
+    "rarity": "very rare"
+  },
+  {
+    "id": 963,
+    "name": "illiquidities",
+    "year": 334,
+    "price": "3943.331",
+    "rarity": "common"
+  },
+  {
+    "id": 964,
+    "name": "mycovirus",
+    "year": 497,
+    "price": "1677.708",
+    "rarity": "very common"
+  },
+  {
+    "id": 965,
+    "name": "almsman",
+    "year": 1299,
+    "price": "1670.479",
+    "rarity": "rare"
+  },
+  {
+    "id": 966,
+    "name": "ulvas",
+    "year": 970,
+    "price": "1593.411",
+    "rarity": "very common"
+  },
+  {
+    "id": 967,
+    "name": "leftwing",
+    "year": 352,
+    "price": "6268.158",
+    "rarity": "very rare"
+  },
+  {
+    "id": 968,
+    "name": "antiquarianism",
+    "year": 905,
+    "price": "4703.318",
+    "rarity": "rare"
+  },
+  {
+    "id": 969,
+    "name": "redrilled",
+    "year": 1671,
+    "price": "2042.595",
+    "rarity": "very common"
+  },
+  {
+    "id": 970,
+    "name": "cheesily",
+    "year": 1132,
+    "price": "8365.966",
+    "rarity": "common"
+  },
+  {
+    "id": 971,
+    "name": "alienation",
+    "year": 1057,
+    "price": "5811.505",
+    "rarity": "very common"
+  },
+  {
+    "id": 972,
+    "name": "chiffons",
+    "year": 1195,
+    "price": "5752.982",
+    "rarity": "very common"
+  },
+  {
+    "id": 973,
+    "name": "infamously",
+    "year": 1423,
+    "price": "7495.814",
+    "rarity": "rare"
+  },
+  {
+    "id": 974,
+    "name": "discompose",
+    "year": 132,
+    "price": "4560.995",
+    "rarity": "very common"
+  },
+  {
+    "id": 975,
+    "name": "brimming",
+    "year": 1325,
+    "price": "6258.222",
+    "rarity": "common"
+  },
+  {
+    "id": 976,
+    "name": "noticing",
+    "year": 1992,
+    "price": "1877.790",
+    "rarity": "very rare"
+  },
+  {
+    "id": 977,
+    "name": "comparabilities",
+    "year": 1900,
+    "price": "1528.577",
+    "rarity": "very rare"
+  },
+  {
+    "id": 978,
+    "name": "yaupon",
+    "year": 1013,
+    "price": "4121.703",
+    "rarity": "common"
+  },
+  {
+    "id": 979,
+    "name": "coky",
+    "year": 1032,
+    "price": "3370.815",
+    "rarity": "very rare"
+  },
+  {
+    "id": 980,
+    "name": "flawlessnesses",
+    "year": 98,
+    "price": "484.880",
+    "rarity": "very rare"
+  },
+  {
+    "id": 981,
+    "name": "gumshoeing",
+    "year": 1399,
+    "price": "8404.842",
+    "rarity": "very common"
+  },
+  {
+    "id": 982,
+    "name": "underclothing",
+    "year": 168,
+    "price": "7976.828",
+    "rarity": "very rare"
+  },
+  {
+    "id": 983,
+    "name": "isotypic",
+    "year": 1761,
+    "price": "7482.863",
+    "rarity": "common"
+  },
+  {
+    "id": 984,
+    "name": "retch",
+    "year": 618,
+    "price": "6262.243",
+    "rarity": "rare"
+  },
+  {
+    "id": 985,
+    "name": "interfamilial",
+    "year": 783,
+    "price": "7084.144",
+    "rarity": "very rare"
+  },
+  {
+    "id": 986,
+    "name": "cosmism",
+    "year": 1563,
+    "price": "189.118",
+    "rarity": "very rare"
+  },
+  {
+    "id": 987,
+    "name": "recite",
+    "year": 27,
+    "price": "4889.235",
+    "rarity": "very common"
+  },
+  {
+    "id": 988,
+    "name": "swisher",
+    "year": 1052,
+    "price": "1330.889",
+    "rarity": "very common"
+  },
+  {
+    "id": 989,
+    "name": "gitano",
+    "year": 1412,
+    "price": "5969.164",
+    "rarity": "very common"
+  },
+  {
+    "id": 990,
+    "name": "harshest",
+    "year": 108,
+    "price": "9733.461",
+    "rarity": "very rare"
+  },
+  {
+    "id": 991,
+    "name": "cistern",
+    "year": 1367,
+    "price": "4024.095",
+    "rarity": "very common"
+  },
+  {
+    "id": 992,
+    "name": "retinula",
+    "year": 1388,
+    "price": "511.449",
+    "rarity": "very rare"
+  },
+  {
+    "id": 993,
+    "name": "rebop",
+    "year": 80,
+    "price": "7419.016",
+    "rarity": "common"
+  },
+  {
+    "id": 994,
+    "name": "lovelier",
+    "year": 727,
+    "price": "3232.312",
+    "rarity": "rare"
+  },
+  {
+    "id": 995,
+    "name": "staler",
+    "year": 1544,
+    "price": "517.048",
+    "rarity": "very common"
+  },
+  {
+    "id": 996,
+    "name": "ptooey",
+    "year": 34,
+    "price": "4584.413",
+    "rarity": "rare"
+  },
+  {
+    "id": 997,
+    "name": "teleologies",
+    "year": 1530,
+    "price": "3194.189",
+    "rarity": "very common"
+  },
+  {
+    "id": 998,
+    "name": "sovereign",
+    "year": 1513,
+    "price": "2247.017",
+    "rarity": "very rare"
+  },
+  {
+    "id": 999,
+    "name": "photoed",
+    "year": 966,
+    "price": "5141.011",
+    "rarity": "rare"
+  }
+]

@@ -75,6 +75,11 @@ app.get('/transaction/:id', (req, res) => {
     res.json(transaction);
 });
 
+app.get('/current-time', (req, res) => {
+    const date = new Date();
+    const result = `${date.getHours()}.${date.getMinutes()}.${date.getSeconds()}`
+    res.send(result);
+});
 
 app.listen(3000, ()=> {
     console.log('Server is running');
