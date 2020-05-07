@@ -81,6 +81,10 @@ app.get('/current-time', (req, res) => {
     res.send(result);
 });
 
+app.get('/users', (req, res) => {
+    res.send("Hi from users");
+});
+
 app.listen(3000, ()=> {
     console.log('Server is running');
 })
