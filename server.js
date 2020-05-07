@@ -3,6 +3,8 @@ const bodyParser = require('body-parser');
 
 const app = express();
 
+const users = [];
+
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
@@ -11,10 +13,9 @@ app.get("/users", function (req, res) {
 });
 
 app.post("/users", function (req, response) {
-  console.log(req.body);
-  response.json(req.body);
+  users.push(req.body);
+  response.json(users);
 });
-
 
 const transactions = [
     {
