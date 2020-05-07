@@ -1,6 +1,20 @@
 const express = require('express');
+const bodyParser = require('body-parser');
 
 const app = express();
+
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
+
+app.get("/users", function (req, res) {
+  res.send("Hi from users");
+});
+
+app.post("/users", function (req, response) {
+  console.log(req.body);
+  response.json(req.body);
+});
+
 
 const transactions = [
     {
@@ -79,10 +93,6 @@ app.get('/current-time', (req, res) => {
     const date = new Date();
     const result = `${date.getHours()}.${date.getMinutes()}.${date.getSeconds()}`
     res.send(result);
-});
-
-app.get('/users', (req, res) => {
-    res.send("Hi from users");
 });
 
 app.listen(3000, ()=> {
