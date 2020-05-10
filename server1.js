@@ -2,19 +2,17 @@
 Добавьте возможность получения отдельной монеты по id.
 Реализуйте пагинацию с помощью параметров count и offset.*/
 
-//import json here
-
-//const fs = require('fs');
 const express = require('express');
 const app = express();
 
-//const coinsJSON = fs.readFile('./coins_named.json');
-//const coins = JSON.parse(coinsJSON);
+const coins = require('./coins_named.json')
 
 app.get('/', (req, res) => {
-    res.send("Chinara");
+    res.send("Домашняя страница");
 });
 
-app.listen(300, ()=> {console.log("Работает сервер")});
+app.get('/coins', (req, res) => {
+    res.send(coins);
+});
 
-//console.log(coins);
+app.listen(3000, ()=> {console.log("Работает сервер")});
