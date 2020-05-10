@@ -12,7 +12,16 @@ app.get('/', (req, res) => {
 });
 
 app.get('/coins', (req, res) => {
-    res.send(coins);
+    const count = Number(req.query.count);
+    const offset = Number(req.query.offset);
+    res.json(coins.slice(offset, offset + count));
+});
+
+app.get('/coin/:id', (req, res) => {
+    const id= Number(req.params.id);
+    const coin = coins.find(item => item.id===id);
+
+    res.send(coin);
 });
 
 app.listen(3000, ()=> {console.log("Работает сервер")});
