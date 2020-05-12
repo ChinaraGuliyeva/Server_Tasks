@@ -20,7 +20,7 @@ app.get('/coins', (req, res) => {
     res.json(coins.slice(offset, offset + count));
 });
 
-app.get('/coin/:id', (req, res) => {
+app.get('/coins/:id', (req, res) => {
     const id= Number(req.params.id);
     const coin = coins.find(item => item.id===id);
 
@@ -29,6 +29,19 @@ app.get('/coin/:id', (req, res) => {
 
 app.post('/coins', (req, res)=> {console.log(req.body);
     res.send("test");
+})
+
+app.delete('/coins/:id', (req, res)=> {
+    const idOfCoin = req.params.id;
+    coins = coins.filter((coin)=>coin.id!==idOfCoin);
+    const coin = coins.find((coin)=> coin.id===idOfCoin);
+
+    if(!coin){
+        res.status(404).send("404");
+    }
+    else {
+        res.status(200).json(coins);
+    }
 })
 
 app.listen(3000, ()=> {console.log("Работает сервер")});
