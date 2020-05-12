@@ -6,12 +6,15 @@ const express = require('express');
 const app = express();
 
 const coins = require('./coins_named.json')
+app.use(express.json());
+app.use(express.urlencoded({extended: true}));
 
 app.get('/', (req, res) => {
     res.send("Домашняя страница");
 });
 
 app.get('/coins', (req, res) => {
+    const copy=[...coins];
     const count = Number(req.query.count);
     const offset = Number(req.query.offset);
     res.json(coins.slice(offset, offset + count));
@@ -23,5 +26,9 @@ app.get('/coin/:id', (req, res) => {
 
     res.send(coin);
 });
+
+app.post('/coins', (req, res)=> {console.log(req.body);
+    res.send("test");
+})
 
 app.listen(3000, ()=> {console.log("Работает сервер")});
